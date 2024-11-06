@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hello World!
-email: qazaleh.ranjbaran@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+title: "Ghazaleh Ranjbaran | AI Specialist & Data Scientist" # Change to your name and profession
+email: qazaleh.ranjbaran@gmail.com # Replace with your email
+description: >- 
+  A portfolio showcasing my expertise in biosignal analysis, machine learning, and data science.
+  # This description will appear in meta tags and search results, so make it concise and impactful.
+baseurl: "" # Keep it empty unless your site is under a subpath (e.g. /portfolio)
+url: "https://ghazalehran.github.io" # Replace with your GitHub Pages URL (example: https://qazal.github.io)
+twitter_username: NA # Add your Twitter handle if you want to link it
+github_username: ghazalehran # Replace with your GitHub username
 
 # Build settings
 theme: minima
