@@ -3,9 +3,7 @@ layout: single
 title: "About Me"
 permalink: /about/
 classes: wide
-sidebar:
-  - picture
-  - navigation
+sidebar: sidebar.html
 ---
 
 Hi, I’m Ghazaleh (pronounced: GHAH-zah-leh), a Biosignal AI Specialist with a focus on analyzing physiological data and developing innovative AI solutions for healthcare and biotechnology. My work lies at the intersection of biomedical engineering and artificial intelligence, where I design scalable systems that enhance patient care and health outcomes.
