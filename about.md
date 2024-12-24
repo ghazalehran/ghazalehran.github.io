@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "About Me"
 permalink: /about/
 classes: wide
