@@ -3,7 +3,7 @@ layout: single
 title: "About Me"
 permalink: /about/
 classes: wide
-sidebar: sidebar.html
+sidebar: psidebar.html
 header: false
 ---
 
