@@ -11,7 +11,7 @@ classes: "splash"
 
   <!-- Center column with image and text -->
   <div class="col-8" style="text-align: center;">
-    <img src="/assets/images/profile-photo-1.jpg" alt="Your Picture" style="border-radius: 10px; width: 80%; height: 30vh; object-fit: cover; margin-bottom: 20px;">
+    <img src="/assets/images/profile-photo-1.jpg" alt="Your Picture" style="border-radius: 10px; width: 100%; height: 50vh; object-fit: cover; margin-bottom: 20px;">
     <p>
 Hi, I’m Ghazaleh (pronounced: GHAH-zah-leh), a Biosignal AI Specialist with a focus on analyzing physiological data and developing innovative AI solutions for healthcare and biotechnology. My work lies at the intersection of biomedical engineering and artificial intelligence, where I design scalable systems that enhance patient care and health outcomes.
     </p>
