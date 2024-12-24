@@ -2,9 +2,11 @@
 main:
   - title: "About Me"
     url: /about/
-  - title: "Projects"
-    url: /projects/
-  - title: "Publications"
-    url: /publications/
-  - title: "Contact"
-    url: /contact/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Presentations"
+    url: /presentations/
+  - title: "Blog"
+    url: /blog/
+  - title: "Resume"
+    url: /resume/

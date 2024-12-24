@@ -9,7 +9,7 @@ Hi, I’m Ghazaleh (pronounced: GHAH-zah-leh), a Biosignal AI Specialist with a 
 Since 2021, I’ve specialized in EEG, working with both software and hardware devices. However, my primary emphasis has been on algorithm development to advance neurodiagnostic applications. Beyond my professional experience, I am deeply passionate about computational neuroscience. I constantly seek opportunities to expand my knowledge and apply it to cutting-edge challenges in AI and neuroscience.
 
 
-## Expertise
+<!-- ## Expertise
 
 - **Programming Languages**: Python, R, SQL, C/C++, MATLAB
 - **Cloud Technologies**: AWS, Compute Canada Cloud
@@ -40,4 +40,4 @@ Since 2021, I’ve specialized in EEG, working with both software and hardware d
   [Tehran Polytechnic], [2020]
 
 ### Beyond Work
-<!-- When I’m not analyzing data or coding algorithms, I enjoy meditation and practing . I’m also passionate about mentoring aspiring AI researchers and sharing and gaining knowledge at conferences. -->
+When I’m not analyzing data or coding algorithms, I enjoy meditation and practing . I’m also passionate about mentoring aspiring AI researchers and sharing and gaining knowledge at conferences. -->
