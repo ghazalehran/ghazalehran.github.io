@@ -1,15 +1,22 @@
 ---
 layout: single
-title:
+title: "Hi!"
 permalink: /about/
 classes: wide
 sidebar: sidebar.html
 header: false
 ---
 
-Hi, I’m Ghazaleh (pronounced: GHAH-zah-leh), a Biosignal AI Specialist with a focus on analyzing physiological data and developing innovative AI solutions for healthcare and biotechnology. My work lies at the intersection of biomedical engineering and artificial intelligence, where I design scalable systems that enhance patient care and health outcomes.
+<h1 style="color: #FF6347; font-size: 4em; font-family: 'Cursive', sans-serif;">Hi, I’m Ghazaleh!</h1>
+<p style="font-size: 1.2em; color: #555;">(pronounced: GHAH-zah-leh)</p>
 
-Since 2021, I’ve specialized in EEG, working with both software and hardware devices. However, my primary emphasis has been on algorithm development to advance neurodiagnostic applications. Beyond my professional experience, I am deeply passionate about computational neuroscience. I constantly seek opportunities to expand my knowledge and apply it to cutting-edge challenges in AI and neuroscience.
+<p>I’m a <strong>Biosignal AI Specialist</strong> with a passion for transforming physiological data into actionable insights that advance healthcare and biotechnology. My work lies at the exciting crossroads of <strong>biomedical engineering</strong> and <strong>artificial intelligence</strong>, where I focus on creating scalable AI systems that improve patient care and health outcomes.</p>
+
+<p>Since 2021, I’ve honed my expertise in <strong>EEG (electroencephalography)</strong>, working with both software and hardware technologies. My primary focus is on <strong>algorithm development</strong>, particularly in advancing neurodiagnostic applications. I love to dive deep into complex problems and design solutions that can have a real-world impact on healthcare.</p>
+
+<p>When I’m not working on AI solutions, I’m captivated by the world of <strong>computational neuroscience</strong>. It’s an area I’m always eager to explore more, and I thrive on learning and pushing the boundaries of what’s possible in AI and neuroscience.</p>
+
+<p>In addition to my technical work, I’m also a believer in collaboration. I’m always open to working with like-minded professionals and exploring new opportunities that can challenge me and help me grow. If you’re interested in collaborating or discussing ideas, don’t hesitate to reach out!</p>
 
 
 <!-- ## Expertise
