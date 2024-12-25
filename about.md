@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "About Me"
+title:
 permalink: /about/
 classes: wide
-sidebar: psidebar.html
+sidebar: sidebar.html
 header: false
 ---
 
