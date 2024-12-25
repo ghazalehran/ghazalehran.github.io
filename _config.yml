@@ -119,7 +119,7 @@ author:
    location         : "Montreal, Canada"
    linkedin            : "qazaleh.ranjbaran@gmail.com"
   links:
-      - label: "LinkedIn" # Change label to LinkedIn
+    - label: "LinkedIn" # Change label to LinkedIn
       icon: "fab fa-fw fa-linkedin" # Use the LinkedIn icon
       url: "https://www.linkedin.com/in/your-linkedin-profile/"
     - label: "Email"
