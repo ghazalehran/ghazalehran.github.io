@@ -3,7 +3,7 @@ layout: single
 title: "Hi!"
 permalink: /about/
 classes: wide
-sidebar: sidebar.html
+sidebar: true
 header: false
 ---
 
