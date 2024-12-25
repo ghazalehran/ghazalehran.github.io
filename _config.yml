@@ -118,6 +118,9 @@ author:
   bio              : "AI & Data Science Specialist"
   location         : "Montreal, Canada"
   links:
+    - label: "LinkedIn" # Change label to LinkedIn
+      icon: "fab fa-fw fa-linkedin" # Use the LinkedIn icon
+      url: "linkedin.com/in/ghazaleh-ranjbaran" 
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
