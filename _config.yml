@@ -116,9 +116,12 @@ author:
   name             : "Ghazaleh Ranjbaran"
   avatar           : "/assets/images/profile-photo-1.jpg"
   bio              : "AI & Data Science Specialist"
-  # location         : "Montreal, Canada"
-  # email            : "qazaleh.ranjbaran@gmail.com"
+   location         : "Montreal, Canada"
+   linkedin            : "qazaleh.ranjbaran@gmail.com"
   links:
+      - label: "LinkedIn" # Change label to LinkedIn
+      icon: "fab fa-fw fa-linkedin" # Use the LinkedIn icon
+      url: "https://www.linkedin.com/in/your-linkedin-profile/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
