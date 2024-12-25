@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Hi!"
+title: ""
 permalink: /about/
 classes: wide
 author_profile: true
 ---
 
-<h1 style="color: #FF6347; font-size: 4em; font-family: 'Cursive', sans-serif;">Hi, I’m Ghazaleh!</h1>
+<h1 style="color: #FF6347; font-size: 2em; font-family: 'Cursive', sans-serif;">Hi, I’m Ghazaleh!</h1>
 <p style="font-size: 1.2em; color: #555;">(pronounced: GHAH-zah-leh)</p>
 
 <p>I’m a <strong>Biosignal AI Specialist</strong> with a passion for transforming physiological data into actionable insights that advance healthcare and biotechnology. My work lies at the exciting crossroads of <strong>biomedical engineering</strong> and <strong>artificial intelligence</strong>, where I focus on creating scalable AI systems that improve patient care and health outcomes.</p>
