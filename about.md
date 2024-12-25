@@ -3,8 +3,7 @@ layout: single
 title: "Hi!"
 permalink: /about/
 classes: wide
-sidebar: psidebar.html
-header: false
+sidebar: true
 ---
 
 <h1 style="color: #FF6347; font-size: 4em; font-family: 'Cursive', sans-serif;">Hi, I’m Ghazaleh!</h1>
