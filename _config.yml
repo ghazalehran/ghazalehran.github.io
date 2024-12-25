@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Ghazaleh Ranjbaran"
   avatar           : "/assets/images/profile-photo-1.jpg"
-  bio              : "Biosignal AI Specialist"
-  location         : "Montreal, Canada"
-  email            : "qazaleh.ranjbaran@gmail.com"
+  bio              : "AI & Data Science Specialist"
+  # location         : "Montreal, Canada"
+  # email            : "qazaleh.ranjbaran@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
