@@ -17,7 +17,7 @@ author_profile: true
 
 <p>Collaboration is at the heart of my approach. I am always eager to connect with like-minded professionals and explore opportunities that can challenge me, foster innovation, and promote growth. If you’re interested in collaborating or discussing ideas, I’d love to hear from you!</p>
 
-<section id="contact" style="padding: 1em 0;">
+<section id="contact" style="padding: 2em 0; margin-top: -1em;">
   <h2 style="font-size: 2em; color: #FF6347;">Contact Me</h2>
   <p>If you'd like to get in touch, please feel free to send me a message below. I look forward to hearing from you!</p>
 
