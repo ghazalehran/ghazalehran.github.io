@@ -11,11 +11,11 @@ header:
 # intro: 
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row4:
-  - image_path: assets/images/portfolio-coming1.jpg
+  - image_path: assets/images/portfolio-coming-1.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: portfolio-coming3.jpg
+  - image_path: portfolio-coming-3.avif
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
@@ -23,7 +23,7 @@ feature_row4:
     url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/portfolio-coming2.jpg
+  - image_path: /assets/images/portfolio-coming-2.webp
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 # feature_row2:
