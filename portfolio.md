@@ -7,7 +7,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/photo-portfolio-header.avif
   width: 
-  excerpt: <p style="margin: 20px 0;"></p>
+  excerpt: |
+    <p style="margin: 20px 0;"></p> <!-- Empty space above -->
+    <h1>My Work</h1>
+    <p style="margin: 20px 0;"></p> <!-- Empty space below -->
 # intro: 
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row4:
