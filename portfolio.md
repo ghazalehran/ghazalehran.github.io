@@ -1,15 +1,15 @@
 ---
-title: ""
+title: "<p style="margin: 50px 0;"></p> My Work<p style="margin: 50px 0;"></p>"
 layout: splash
 permalink: /portfolio/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/photo-portfolio-header.avif
-  caption: |
-    &nbsp;  
-    # My Work  
-    &nbsp;
+  # caption: |
+  #   &nbsp;  
+  #   # My Work  
+  #   &nbsp;
 # intro: 
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row4:
@@ -56,10 +56,10 @@ feature_row4:
 
 <!-- {% include feature_row id="intro" type="center" %} -->
 
-{% include feature_row layout="half"%}
+<!-- {% include feature_row layout="half"%}
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="right" %} -->
 
 {% include feature_row id="feature_row4" type="center" layout="half"%}
