@@ -25,7 +25,7 @@ feature_row3:
 
     # btn_label: "Read More"
     # btn_class: "btn--primary"
-  feature_row4:
+feature_row4:
   - image_path: /assets/images/portfolio-coming-2.webp
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
