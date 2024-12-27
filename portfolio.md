@@ -15,7 +15,7 @@ feature_row2:
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
+feature_row3:
   - image_path: assets/images/portfolio-coming-3.avif
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
@@ -25,7 +25,7 @@ feature_row2:
 
     # btn_label: "Read More"
     # btn_class: "btn--primary"
-  feature_row2:
+  feature_row4:
   - image_path: /assets/images/portfolio-coming-2.webp
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -56,6 +56,10 @@ feature_row2:
 ---
 
 {% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="left" %}
 
 <!-- {% include feature_row id="intro" type="center" %} -->
 
