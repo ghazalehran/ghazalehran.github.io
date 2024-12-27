@@ -1,15 +1,18 @@
 ---
-title: "<p> </p>My Work<p> </p>"
+title: ""
 layout: splash
 permalink: /portfolio/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/photo-portfolio-header.avif
-  caption: "<p> </p> <p></p>"
+  caption: |
+    &nbsp;  
+    # My Work  
+    &nbsp;
 # intro: 
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-feature_row:
+feature_row4:
   - image_path: assets/images/portfolio-coming-soon.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
