@@ -1,5 +1,5 @@
 ---
-title: "<p style="margin: 50px 0;"></p> My Work<p style="margin: 50px 0;"></p>"
+title: "<p></p> My Work<p></p>"
 layout: splash
 permalink: /portfolio/
 header:
@@ -62,4 +62,4 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %} -->
 
-{% include feature_row id="feature_row4" type="center" layout="half"%}
+{% include feature_row id="feature_row4" type="center" %}
