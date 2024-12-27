@@ -1,12 +1,13 @@
 ---
-title: "<p></p> My Work<p></p>"
+title: "My Work"
 layout: splash
 permalink: /portfolio/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/photo-portfolio-header.avif
-  # caption: |
+  width: 
+  excerpt: |
   #   &nbsp;  
   #   # My Work  
   #   &nbsp;
@@ -23,8 +24,8 @@ feature_row4:
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
   # - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
   #   title: "Placeholder 3"
   #   excerpt: "This is some sample content that goes here with **Markdown** formatting."
