@@ -1,5 +1,5 @@
 ---
-title: "My Work<br><br>"
+title: "<br><br>My Work<br><br>"
 layout: splash
 permalink: /portfolio/
 header:
