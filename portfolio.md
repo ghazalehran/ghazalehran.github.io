@@ -11,10 +11,11 @@ header:
 # intro: 
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row2:
-  - image_path: assets/images/portfolio-coming-1.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: assets/images/VAE.jpg
+    alt: "VAE-funny"
+    title: "Exploring Variational Autoencoders: A Hands-On Guide"
+    excerpt: "Explore the power of Variational Autoencoders (VAEs) in this hands-on guide. Learn how to implement and train a VAE on the SVHN dataset using       PyTorch, with step-by-step instructions for building the model and visualizing results. Perfect for those looking to dive into generative models and image generation!"
+    url: "[#test-link](https://github.com/ghazalehran/VAE-GenerativeModels/tree/main)"
 feature_row3:
   - image_path: assets/images/portfolio-coming-3.avif
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
