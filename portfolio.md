@@ -12,17 +12,17 @@ header:
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row2:
   - image_path: assets/images/VAE.jpg
-    alt: "VAE-funny"
+    alt: "VAE-cat"
     title: "Exploring Variational Autoencoders: A Hands-On Guide"
     excerpt: "Explore the power of Variational Autoencoders (VAEs) in this hands-on guide. Learn how to implement and train a VAE on the SVHN dataset using       PyTorch, with step-by-step instructions for building the model and visualizing results. Perfect for those looking to dive into generative models and image generation!"
     url: "https://github.com/ghazalehran/VAE-GenerativeModels"
 feature_row3:
-  - image_path: assets/images/portfolio-coming-3.avif
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+  - image_path: assets/images/mvarica.avif
+    alt: "Image courtesy of (https://unsplash.com/)"
+    title: "Connectivity Analysis with MVAR and ICA"
+    excerpt: "TThis project applies MVAR (Multivariate Autoregressive) modeling and ICA (Independent Component Analysis) to EEG time-series data to estimate connectivity measures like transfer functions and directed coherence.<a href="https://github.com/your-link-to-tutorial" target="_blank">Check out the PDC Connectivity in the Tutorial section</a>
+"
+    url: "[#test-link](https://github.com/ppsp-team/HyPyP/blob/master/hypyp/mvarica.py)"
 
     # btn_label: "Read More"
     # btn_class: "btn--primary"
