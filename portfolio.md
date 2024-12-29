@@ -19,7 +19,7 @@ feature_row3:
   - image_path: assets/images/mvarica.avif
     alt: "Image courtesy of unsplash"
     title: "Connectivity Analysis with MVAR and ICA"
-    excerpt: "TThis project applies MVAR (Multivariate Autoregressive) modeling and ICA (Independent Component Analysis) to EEG time-series data to estimate connectivity measures like transfer functions and directed coherence. Check out the PDC Connectivity in the Tutorial (https://github.com/ppsp-team/HyPyP/blob/master/tutorial/getting_started.ipynb) section. 
+    excerpt: "TThis project applies MVAR (Multivariate Autoregressive) modeling and ICA (Independent Component Analysis) to EEG time-series data to estimate connectivity measures like transfer functions and directed coherence. Check out the PDC Connectivity in the Tutorial (https://github.com/ppsp-team/HyPyP/blob/master/tutorial/getting_started.ipynb) section."
     url: "https://github.com/ppsp-team/HyPyP/blob/master/hypyp/mvarica.py"
 
     # btn_label: "Read More"
