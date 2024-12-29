@@ -15,7 +15,7 @@ feature_row2:
     alt: "VAE-funny"
     title: "Exploring Variational Autoencoders: A Hands-On Guide"
     excerpt: "Explore the power of Variational Autoencoders (VAEs) in this hands-on guide. Learn how to implement and train a VAE on the SVHN dataset using       PyTorch, with step-by-step instructions for building the model and visualizing results. Perfect for those looking to dive into generative models and image generation!"
-    url: "[#test-link](https://github.com/ghazalehran/VAE-GenerativeModels/tree/main)"
+    url: "(https://github.com/ghazalehran/VAE-GenerativeModels)"
 feature_row3:
   - image_path: assets/images/portfolio-coming-3.avif
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
