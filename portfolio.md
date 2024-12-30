@@ -28,7 +28,7 @@ feature_row4:
     excerpt: "A simple yet powerful sentiment classification system using machine learning models (Naive Bayes, SVM, Neural Networks) to predict text sentiment. Implemented feature engineering techniques like Bag of Words and NLP, and applied LIME for model interpretability. The project focuses on building accurate, explainable AI solutions for text sentiment analysis."
     url: "https://github.com/ghazalehran/Sentiment-Analysis"
 feature_row5:
-  - image_path: /assets/images/data2.jpg
+  - image_path: /assets/images/Data2.jpg
     alt: "Photo from iStoc"
     title: "Data Harmonization With R"
     excerpt: "Coming Soon"
