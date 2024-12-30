@@ -21,13 +21,12 @@ feature_row3:
     title: "Connectivity Analysis with MVAR and ICA"
     excerpt: 'This project applies MVAR (Multivariate Autoregressive) modeling and ICA (Independent Component Analysis) to EEG time-series data to estimate connectivity measures like transfer functions and directed coherence.<a href="https://github.com/your-link-to-tutorial" target="_blank">Check out the PDC Connectivity in the Tutorial section</a>'
     url: "https://github.com/ppsp-team/HyPyP/blob/master/hypyp/mvarica.py"
-
-    # btn_label: "Read More"
-    # btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/portfolio-coming-2.webp
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/emoji.avif
+    alt: "Image courtesy of unsplash"
+    title: "Sentiment Analysis with Machine Learning & LIME"
+    excerpt: "A simple yet powerful sentiment classification system that utilizes state-of-the-art machine learning models, including Naive Bayes, SVM, and Neural Networks, to predict text sentiment accurately. Leveraged advanced feature engineering techniques such as Bag of Words and NLP, and integrated LIME for model transparency, ensuring that predictions are both accurate and interpretable. The project focuses on building accurate, explainable AI solutions for text sentiment analysis."
+    url: "https://github.com/ghazalehran/Sentiment-Analysis"
 # feature_row2:
 #   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
 #     alt: "placeholder image 2"
