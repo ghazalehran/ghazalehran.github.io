@@ -10,7 +10,7 @@ header:
 # intro: 
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row2:
-  - image_path: assets/images/VAE.jpg
+  - image_path: assets/images/VAE2.jpg
     alt: "VAE-cat"
     title: "Exploring Variational Autoencoders: A Hands-On Guide"
     excerpt: "Explore the power of Variational Autoencoders (VAEs) in this hands-on guide. Learn how to implement and train a VAE on the SVHN dataset using       PyTorch, with step-by-step instructions for building the model and visualizing results. Perfect for those looking to dive into generative models and image generation!"
@@ -25,8 +25,14 @@ feature_row4:
   - image_path: /assets/images/emoji.avif
     alt: "Image courtesy of unsplash"
     title: "Sentiment Analysis with Machine Learning & LIME"
-    excerpt: "A simple yet powerful sentiment classification system that utilizes state-of-the-art machine learning models, including Naive Bayes, SVM, and Neural Networks, to predict text sentiment accurately. Leveraged advanced feature engineering techniques such as Bag of Words and NLP, and integrated LIME for model transparency, ensuring that predictions are both accurate and interpretable. The project focuses on building accurate, explainable AI solutions for text sentiment analysis."
+    excerpt: "A simple yet powerful sentiment classification system using machine learning models (Naive Bayes, SVM, Neural Networks) to predict text sentiment. Implemented feature engineering techniques like Bag of Words and NLP, and applied LIME for model interpretability. The project focuses on building accurate, explainable AI solutions for text sentiment analysis."
     url: "https://github.com/ghazalehran/Sentiment-Analysis"
+feature_row5:
+  - image_path: /assets/images/data.jpg
+    alt: "Photo from iStoc"
+    title: "Data Harmonization With R"
+    excerpt: "Coming Soon"
+    url: "https://github.com/ghazalehran/Data-Integration-in-R"
 # feature_row2:
 #   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
 #     alt: "placeholder image 2"
@@ -59,12 +65,4 @@ feature_row4:
 
 {% include feature_row id="feature_row4" type="left" %}
 
-<!-- {% include feature_row id="intro" type="center" %} -->
-
-<!-- {% include feature_row layout="half"%}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %} -->
-
-<!-- {% include feature_row id="feature_row4" type="center" %} -->
+{% include feature_row id="feature_row5" type="left" %}
