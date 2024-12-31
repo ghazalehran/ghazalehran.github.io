@@ -26,9 +26,8 @@ toc_label: "Contents"
   <div style="width: 200px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
     <h4>Cloud & Ops</h4>
-    <p>AWS</p>
-    <p>Docker</p>
-    <p>MLOps</p>
-    <p>CI/CD</p>
+    <p>AWS  Compute Canada Cloud</p>
+    <p>Docker  Gitlab  Git</p>
+    <p>MLOps  CI/CD  MLflow</p>
   </div>
 </div>
