@@ -184,3 +184,57 @@ toc_label: "Contents"
   </script>
 
 </body>
+
+
+## Soft Skills
+
+<div class="skill-cloud">
+  <span class="skill-word">Communication</span>
+  <span class="skill-word">Teamwork</span>
+  <span class="skill-word">Problem-Solving</span>
+  <span class="skill-word">Adaptability</span>
+  <span class="skill-word">Leadership</span>
+  <span class="skill-word">Time Management</span>
+</div>
+
+<style>
+  .skill-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    font-size: 14px;
+  }
+
+  .skill-word {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    padding: 5px;
+    transition: transform 0.3s ease;
+  }
+
+  .skill-word:hover {
+    transform: scale(1.2);
+    color: #4CAF50;
+  }
+
+  .skill-word:nth-child(1) {
+    font-size: 20px;
+  }
+  .skill-word:nth-child(2) {
+    font-size: 22px;
+  }
+  .skill-word:nth-child(3) {
+    font-size: 18px;
+  }
+  .skill-word:nth-child(4) {
+    font-size: 18px;
+  }
+  .skill-word:nth-child(5) {
+    font-size: 22px;
+  }
+  .skill-word:nth-child(6) {
+    font-size: 16px;
+  }
+</style>
