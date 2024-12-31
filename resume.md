@@ -3,171 +3,127 @@ layout: single
 title: ""
 permalink: /resume/
 author_profile: true
+toc: true
+toc_label: "Contents"
 ---
+<!-- Collapsible Container for Skills -->
 <div style="margin: 40px 0;">
   <h2 style="text-align: center;">Skills and Competencies</h2>
 
-  <!-- Flip Cards Section -->
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
-    <!-- Card 1: Programming Languages -->
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
-          <h4>Programming Languages</h4>
-          <ul>
-            <li>Python</li>
-            <li>R</li>
-            <li>SQL</li>
-            <li>C++</li>
-          </ul>
-        </div>
-        <div class="flip-card-back">
-          <p>Advanced proficiency in data science, AI, and automation.</p>
-        </div>
-      </div>
-    </div>
+  <!-- Collapsible Section for Programming Languages -->
+  <button class="collapsible">Programming Languages</button>
+  <div class="content">
+    <ul>
+      <li>Python</li>
+      <li>R</li>
+      <li>SQL</li>
+      <li>C++</li>
+    </ul>
+    <p>Advanced proficiency in data science, AI, and automation.</p>
+  </div>
 
-    <!-- Card 2: Frameworks -->
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow">
-          <h4>Frameworks</h4>
-          <ul>
-            <li>TensorFlow</li>
-            <li>PyTorch</li>
-            <li>Keras</li>
-            <li>Hugging Face Transformers</li>
-          </ul>
-        </div>
-        <div class="flip-card-back">
-          <p>Expert in machine learning frameworks for deep learning and NLP.</p>
-        </div>
-      </div>
-    </div>
+  <!-- Collapsible Section for Frameworks -->
+  <button class="collapsible">Frameworks</button>
+  <div class="content">
+    <ul>
+      <li>TensorFlow</li>
+      <li>PyTorch</li>
+      <li>Keras</li>
+      <li>Hugging Face Transformers</li>
+    </ul>
+    <p>Expert in machine learning frameworks for deep learning and NLP.</p>
+  </div>
 
-    <!-- Card 3: Cloud & Ops -->
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
-          <h4>Cloud & Ops</h4>
-          <ul>
-            <li>AWS</li>
-            <li>Docker</li>
-            <li>MLOps</li>
-            <li>CI/CD</li>
-          </ul>
-        </div>
-        <div class="flip-card-back">
-          <p>Experience in deploying models and managing cloud infrastructures.</p>
-        </div>
-      </div>
-    </div>
+  <!-- Collapsible Section for Cloud & Ops -->
+  <button class="collapsible">Cloud & Ops</button>
+  <div class="content">
+    <ul>
+      <li>AWS</li>
+      <li>Docker</li>
+      <li>MLOps</li>
+      <li>CI/CD</li>
+    </ul>
+    <p>Experience in deploying models and managing cloud infrastructures.</p>
+  </div>
 
-    <!-- Card 4: Healthcare Compliance -->
-    <div class="flip-card">
-      <div class="flip-card-inner">
-        <div class="flip-card-front">
-          <img src="https://img.icons8.com/color/48/000000/health-data.png" alt="Healthcare">
-          <h4>Healthcare Compliance</h4>
-          <ul>
-            <li>HIPAA</li>
-            <li>FDA</li>
-            <li>HL7 Standards</li>
-          </ul>
-        </div>
-        <div class="flip-card-back">
-          <p>Knowledge in regulatory compliance within the healthcare industry.</p>
-        </div>
-      </div>
-    </div>
+  <!-- Collapsible Section for Healthcare Compliance -->
+  <button class="collapsible">Healthcare Compliance</button>
+  <div class="content">
+    <ul>
+      <li>HIPAA</li>
+      <li>FDA</li>
+      <li>HL7 Standards</li>
+    </ul>
+    <p>Knowledge in regulatory compliance within the healthcare industry.</p>
   </div>
 </div>
 
-<!-- CSS for Flip Cards -->
+<!-- CSS for Collapsible Sections -->
 <style>
-  /* Flip Card Container */
-/* Flip Card Container */
-.flip-card {
-  background-color: transparent;
-  width: 250px;
-  height: 250px;
-  perspective: 1000px;
-  margin: 10px;
-}
+  /* Button styling */
+  .collapsible {
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    font-size: 1.2em;
+    margin: 5px 0;
+    border-radius: 10px;
+    transition: 0.3s;
+  }
 
-.flip-card-inner {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  transition: transform 0.6s;
-  transform-style: preserve-3d;
-}
+  /* Hover effect */
+  .collapsible:hover {
+    background-color: #45a049;
+  }
 
-.flip-card:hover .flip-card-inner {
-  transform: rotateY(180deg);
-}
+  /* Collapsible content styling */
+  .content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    margin-bottom: 10px;
+    border-radius: 10px;
+  }
 
-.flip-card-front, .flip-card-back {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  backface-visibility: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  padding: 20px;
-  overflow: hidden; /* Prevent content from overflowing */
-}
+  ul {
+    list-style-type: none;
+    padding: 0;
+    font-size: 1em;
+  }
 
-.flip-card-front {
-  background-color: #f9f9f9;
-}
+  ul li {
+    padding: 5px 0;
+  }
 
-.flip-card-back {
-  background-color: #4caf50;
-  color: white;
-  transform: rotateY(180deg);
-}
-
-/* Image styling */
-.flip-card img {
-  margin-bottom: 10px;
-  width: 48px;
-  height: 48px;
-}
-
-/* Title styling */
-h4 {
-  margin: 10px 0;
-  font-size: 1.1em;
-  overflow: hidden; /* Prevent title from overflowing */
-  text-overflow: ellipsis; /* Add ellipsis if title is too long */
-  white-space: nowrap; /* Prevent title from wrapping */
-}
-
-/* Unordered List styling */
-ul {
-  list-style-type: none;
-  padding: 0;
-  font-size: 0.9em;
-  overflow-y: auto; /* Allow scrolling if list is too long */
-  max-height: 120px; /* Set a max height to avoid overflowing */
-  margin: 0;
-}
-
-/* List Item styling */
-ul li {
-  padding: 5px 0;
-  overflow: hidden; /* Prevent individual items from overflowing */
-  text-overflow: ellipsis; /* Add ellipsis if items are too long */
-  white-space: nowrap; /* Prevent wrapping of list items */
-}
-
+  p {
+    padding: 10px;
+    font-size: 1em;
+  }
 </style>
+
+<!-- JavaScript for Collapsible Functionality -->
+<script>
+  // Get all collapsible buttons
+  var coll = document.getElementsByClassName("collapsible");
+
+  // Loop through each button
+  for (var i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      // Toggle the content visibility
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      
+      // If the content is visible, hide it, otherwise show it
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+  }
+</script>
