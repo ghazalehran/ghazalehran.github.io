@@ -3,8 +3,6 @@ layout: single
 title: ""
 permalink: /resume/
 author_profile: true
-toc: true
-toc_label: "Contents"
 ---
 <div style="margin: 40px 0;">
   <h2 style="text-align: center;">Skills and Competencies</h2>
@@ -16,10 +14,16 @@ toc_label: "Contents"
       <div class="flip-card-inner">
         <div class="flip-card-front">
           <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
-          <h4>Programming</h4>
+          <h4>Programming Languages</h4>
+            <ul>
+                <li>Python</li>
+                <li>R</li>
+                <li>SQL</li>
+                <li>C++</li>
+            </ul>
         </div>
         <div class="flip-card-back">
-          <p>Python, R, SQL, C++, MATLAB</p>
+          <p>Advanced proficiency in data science, AI, and automation.</p>
         </div>
       </div>
     </div>
