@@ -188,53 +188,52 @@ toc_label: "Contents"
 
 ## Soft Skills
 
-<div class="skill-cloud">
-  <span class="skill-word">Communication</span>
-  <span class="skill-word">Teamwork</span>
-  <span class="skill-word">Problem-Solving</span>
-  <span class="skill-word">Adaptability</span>
-  <span class="skill-word">Leadership</span>
-  <span class="skill-word">Time Management</span>
+
+<div class="radial-skills">
+  <div class="skill-circle">
+    <div class="skill-label">Communication</div>
+    <div class="skill-progress" style="background: conic-gradient(#4CAF50 90%, #ddd 90%);"></div>
+  </div>
+  <div class="skill-circle">
+    <div class="skill-label">Teamwork</div>
+    <div class="skill-progress" style="background: conic-gradient(#4CAF50 85%, #ddd 85%);"></div>
+  </div>
+  <div class="skill-circle">
+    <div class="skill-label">Leadership</div>
+    <div class="skill-progress" style="background: conic-gradient(#4CAF50 70%, #ddd 70%);"></div>
+  </div>
 </div>
 
 <style>
-  .skill-cloud {
+  .radial-skills {
     display: flex;
-    flex-wrap: wrap;
+    gap: 30px;
     justify-content: center;
-    gap: 10px;
+    margin-top: 20px;
+  }
+
+  .skill-circle {
+    position: relative;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color: #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .skill-progress {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+
+  .skill-label {
+    position: absolute;
     font-size: 14px;
-  }
-
-  .skill-word {
-    font-size: 18px;
-    font-weight: bold;
     color: #333;
-    padding: 5px;
-    transition: transform 0.3s ease;
-  }
-
-  .skill-word:hover {
-    transform: scale(1.2);
-    color: #4CAF50;
-  }
-
-  .skill-word:nth-child(1) {
-    font-size: 20px;
-  }
-  .skill-word:nth-child(2) {
-    font-size: 22px;
-  }
-  .skill-word:nth-child(3) {
-    font-size: 18px;
-  }
-  .skill-word:nth-child(4) {
-    font-size: 18px;
-  }
-  .skill-word:nth-child(5) {
-    font-size: 22px;
-  }
-  .skill-word:nth-child(6) {
-    font-size: 16px;
+    font-weight: bold;
   }
 </style>
