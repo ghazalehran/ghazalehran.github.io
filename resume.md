@@ -6,7 +6,8 @@ author_profile: true
 toc: true
 toc_label: "Contents"
 ---
-## Skills and Competencies
+<div style="margin: 40px 0;">
+  <h2 style="text-align: center;">Skills and Competencies</h2>
 
   <!-- Flip Cards Section -->
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
