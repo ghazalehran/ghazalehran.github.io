@@ -9,7 +9,7 @@ toc_label: "Contents"
 ## Technical Expertise
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
-  <div style="width: 200px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
+  <div style="width: 150px; padding: 15px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
     <h4>Programming</h4>
     <p>
