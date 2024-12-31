@@ -9,7 +9,7 @@ toc_label: "Contents"
 ## Technical Expertise
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 20px;">
-  <div style="width: 150px; padding: 15px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
+  <div style="width: 150px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
     <h4 style="font-size: 14px;">Programming</h4>
     <p style="font-size: 12px;">
@@ -21,7 +21,7 @@ toc_label: "Contents"
     </p>
   </div>
   
-  <div style="width: 150px; padding: 15px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
+  <div style="width: 150px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow">
     <h4 style="font-size: 14px;">Frameworks</h4>
     <p style="font-size: 12px;">
@@ -32,7 +32,7 @@ toc_label: "Contents"
     </p>
   </div>
   
-  <div style="width: 150px; padding: 15px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
+  <div style="width: 150px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
     <img src="https://img.icons8.com/ios/50/000000/scikit-learn.png" alt="Scikit-learn">
     <h4 style="font-size: 14px;">Libraries</h4>
     <p style="font-size: 12px;">
@@ -47,7 +47,7 @@ toc_label: "Contents"
     </p>
   </div>
   
-  <div style="width: 150px; padding: 15px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
+  <div style="width: 150px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
     <h4 style="font-size: 14px;">Cloud & Ops</h4>
     <p style="font-size: 12px;">
