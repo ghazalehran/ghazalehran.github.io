@@ -187,7 +187,6 @@ toc_label: "Contents"
 
 
 ## Soft Skills
-<h2>Soft Skills</h2>
 
 <div class="skill-cloud">
   <span class="skill-word">Communication</span>
