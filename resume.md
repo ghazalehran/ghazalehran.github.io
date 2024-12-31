@@ -11,8 +11,8 @@ toc_label: "Contents"
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
   <div style="width: 150px; padding: 15px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
-    <h4>Programming</h4>
-    <p>
+    <h4 style="font-size: 14px;">Programming</h4>
+    <p style="font-size: 12px;">
       Python<br>
       R<br>
       SQL<br>
@@ -21,10 +21,10 @@ toc_label: "Contents"
     </p>
   </div>
   
-  <div style="width: 200px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
+  <div style="width: 150px; padding: 15px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow">
-    <h4>Frameworks</h4>
-    <p>
+    <h4 style="font-size: 14px;">Frameworks</h4>
+    <p style="font-size: 12px;">
       TensorFlow<br>
       PyTorch<br>
       Keras<br>
@@ -32,10 +32,10 @@ toc_label: "Contents"
     </p>
   </div>
   
-  <div style="width: 200px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
+  <div style="width: 150px; padding: 15px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
     <img src="https://img.icons8.com/ios/50/000000/scikit-learn.png" alt="Scikit-learn">
-    <h4>Libraries</h4>
-    <p>
+    <h4 style="font-size: 14px;">Libraries</h4>
+    <p style="font-size: 12px;">
       JAX<br>
       OpenCV<br>
       SciPy<br>
@@ -47,10 +47,10 @@ toc_label: "Contents"
     </p>
   </div>
   
-  <div style="width: 200px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
+  <div style="width: 150px; padding: 15px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
-    <h4>Cloud & Ops</h4>
-    <p>
+    <h4 style="font-size: 14px;">Cloud & Ops</h4>
+    <p style="font-size: 12px;">
       AWS<br>
       Compute Canada Cloud<br>
       Docker<br>
@@ -187,53 +187,55 @@ toc_label: "Contents"
 
 
 ## Soft Skills
+<h2>Soft Skills</h2>
 
-
-<div class="radial-skills">
-  <div class="skill-circle">
-    <div class="skill-label">Communication</div>
-    <div class="skill-progress" style="background: conic-gradient(#4CAF50 90%, #ddd 90%);"></div>
-  </div>
-  <div class="skill-circle">
-    <div class="skill-label">Teamwork</div>
-    <div class="skill-progress" style="background: conic-gradient(#4CAF50 85%, #ddd 85%);"></div>
-  </div>
-  <div class="skill-circle">
-    <div class="skill-label">Leadership</div>
-    <div class="skill-progress" style="background: conic-gradient(#4CAF50 70%, #ddd 70%);"></div>
-  </div>
+<div class="skill-cloud">
+  <span class="skill-word">Communication</span>
+  <span class="skill-word">Teamwork</span>
+  <span class="skill-word">Problem-Solving</span>
+  <span class="skill-word">Adaptability</span>
+  <span class="skill-word">Leadership</span>
+  <span class="skill-word">Time Management</span>
 </div>
 
 <style>
-  .radial-skills {
+  .skill-cloud {
     display: flex;
-    gap: 30px;
+    flex-wrap: wrap;
     justify-content: center;
-    margin-top: 20px;
-  }
-
-  .skill-circle {
-    position: relative;
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    background-color: #ddd;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .skill-progress {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    border-radius: 50%;
-  }
-
-  .skill-label {
-    position: absolute;
+    gap: 10px;
     font-size: 14px;
-    color: #333;
+  }
+
+  .skill-word {
+    font-size: 18px;
     font-weight: bold;
+    color: #333;
+    padding: 5px;
+    transition: transform 0.3s ease;
+  }
+
+  .skill-word:hover {
+    transform: scale(1.2);
+    color: #4CAF50;
+  }
+
+  .skill-word:nth-child(1) {
+    font-size: 20px;
+  }
+  .skill-word:nth-child(2) {
+    font-size: 22px;
+  }
+  .skill-word:nth-child(3) {
+    font-size: 18px;
+  }
+  .skill-word:nth-child(4) {
+    font-size: 18px;
+  }
+  .skill-word:nth-child(5) {
+    font-size: 22px;
+  }
+  .skill-word:nth-child(6) {
+    font-size: 16px;
   }
 </style>
