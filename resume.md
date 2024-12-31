@@ -7,8 +7,8 @@ toc: true
 toc_label: "Contents"
 ---
 <!-- Collapsible Container for Skills -->
-<div style="margin: 40px 0;">
-  <h2 style="text-align: center;">Skills and Competencies</h2>
+# Skills and Competencies
+
 
   <!-- Collapsible Section for Programming Languages -->
   <button class="collapsible">Programming Languages</button>
@@ -56,13 +56,12 @@ toc_label: "Contents"
     </ul>
     <p>Knowledge in regulatory compliance within the healthcare industry.</p>
   </div>
-</div>
 
 <!-- CSS for Collapsible Sections -->
 <style>
   /* Button styling */
   .collapsible {
-    background-color: #4caf50;
+    background-color:rgb(191, 135, 62);
     color: white;
     cursor: pointer;
     padding: 15px;
@@ -77,7 +76,7 @@ toc_label: "Contents"
 
   /* Hover effect */
   .collapsible:hover {
-    background-color: #45a049;
+    background-color:rgb(176, 109, 22);
   }
 
   /* Collapsible content styling */
