@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <h1 style="color: #FF6347; font-size: 2em; font-family: 'Cursive', sans-serif;">Hi, I’m Ghazaleh!</h1>
-<p style="font-size: 1.2em; color: #555;">(pronounced: GHAH-zah-leh)</p>
+<p style="font-size: 1.2em; color: #555;">(pronounced: GAH-zah-leh)</p>
 
 <p>I’m an <strong>AI & Data Science Specialist</strong> with a passion for transforming physiological data into actionable insights that advance healthcare and biotechnology. My work exists at the intersection of <strong>biomedical science</strong> and <strong>computer science</strong>, where I focus on developing scalable AI systems that enhance patient care and health outcomes, performing statistical analysis on complex datasets, and harmonizing and integrating large-scale datasets to optimize performance and insights.</p>
 
