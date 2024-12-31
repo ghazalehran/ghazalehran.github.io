@@ -2,7 +2,6 @@
 layout: single
 title: ""
 permalink: /about/
-classes: wide
 author_profile: true
 ---
 
