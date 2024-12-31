@@ -101,15 +101,15 @@ toc_label: "Contents"
     color: white;
     transform: rotateY(180deg);
   }
-  
+
 .flip-card img {
   max-width: 100%;
   height: auto;
 }
-  h4 {
+.flip-card h4 {
     margin: 10px 0;
   }
-  p {
+.flip-card p {
     padding: 0 10px;
   }
 </style>
