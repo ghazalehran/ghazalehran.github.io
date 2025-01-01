@@ -33,7 +33,7 @@ toc_label: "Contents"
   </div>
   
   <div style="width: 150px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
-    <img src="https://img.icons8.com/ios/50/000000/scikit-learn.png" alt="Scikit-learn">
+    <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="Scikit-learn">
     <h4 style="font-size: 14px;">Libraries</h4>
     <p style="font-size: 12px;">
       JAX<br>
