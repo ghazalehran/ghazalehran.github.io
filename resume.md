@@ -49,14 +49,15 @@ toc_label: "Contents"
   
   <div style="width: 150px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
-    <h4 style="font-size: 14px;">Cloud & Ops</h4>
+    <h4 style="font-size: 14px;">AWS & DevOps Tools</h4>
     <p style="font-size: 12px;">
       AWS<br>
       Compute Canada Cloud<br>
       Docker<br>
       Git<br>
-      MLOps<br>
-      CI/CD<br>
+      Gitlab<br>
+      MLflow<br>
+      Comet ML<br>
     </p>
   </div>
 </div>
