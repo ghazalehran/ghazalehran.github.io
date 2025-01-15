@@ -28,4 +28,4 @@ feature_row:
 author_profile: true   
 ---
 
-{% include feature_row type="left"%}
+{% include feature_row type="center"%}
