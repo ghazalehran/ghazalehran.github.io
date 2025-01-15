@@ -1,7 +1,9 @@
 ---
-layout: post
-title: "My First Post"
+layout: single
+title: "Understanding Jekyll with Minimal Mistakes"
 date: 2025-01-15
-categories: [blog, personal]
+categories: [blog]
+tags: [jekyll, minimal-mistakes, tutorial]
+author_profile: true
 ---
-Welcome to my first blog post on my personal GitHub Page! This is where I'll share updates, projects, and thoughts.
+This is my first blog post using Minimal Mistakes! Here's what I learned about Jekyll and this theme...
