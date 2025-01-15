@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Ghazaleh Ranjbaran"
   avatar           : "/assets/images/profile-photo-1.jpg"
-  bio              : "AI & Data Science Specialist"
+  bio              : "ML Developer & Biomecical Data Scientist"
   location         : "Montreal, Canada"
   links:
     - label: "LinkedIn" # Change label to LinkedIn
