@@ -4,8 +4,6 @@ title: "Blog"
 permalink: /blog/
 ---
 
-soon
-
 <!-- ### Get in Touch
 
 Let’s connect! Feel free to reach out to me at the following:
