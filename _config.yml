@@ -233,7 +233,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
-paginate: 5 # amount of posts to show
+#paginate: 5 # amount of posts to show
 paginate_path: "/blog/page:num/"
 
 # Pagination with jekyll-paginate-v2
@@ -245,7 +245,7 @@ pagination:
   debug: false
   collection: 'posts'
   per_page: 10
-  permalink: '/page/:num/'
+  permalink: '/blog/page/:num/'
   title: ':title - page :num'
   limit: 0
   sort_field: 'date'
@@ -325,3 +325,16 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+feature_row:
+  - image_path: /assets/images/portfolio.jpg
+    title: "My Portfolio"
+    url: /portfolio/
+    btn_label: "View Portfolio"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/blog.jpg
+    title: "Read My Blog"
+    url: /blog/
+    btn_label: "Go to Blog"
+    btn_class: "btn--primary"
