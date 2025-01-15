@@ -1,7 +1,21 @@
 ---
-layout: archive
+layout: splash 
 ---
 
+<!-- Feature Row Section -->
+<div class="feature-row">
+  {% for feature in site.feature_row %}
+    <div class="feature-item">
+      <img src="{{ feature.image_path }}" alt="{{ feature.title }}">
+      <h3>{{ feature.title }}</h3>
+      <a href="{{ feature.url }}" class="btn {{ feature.btn_class }}">
+        {{ feature.btn_label }}
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
+<!-- Main Content -->
 {{ content }}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
