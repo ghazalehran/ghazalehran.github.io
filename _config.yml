@@ -328,12 +328,12 @@ defaults:
 
 
 feature_row:
-  - image_path: /assets/images/portfolio.jpg
+  - image_path: /assets/images/portfolio-coming-soon.jpg
     title: "My Portfolio"
     url: /portfolio/
     btn_label: "View Portfolio"
     btn_class: "btn--primary"
-  - image_path: /assets/images/blog.jpg
+  - image_path: /assets/images/portfolio-coming-soon.jpg
     title: "Read My Blog"
     url: /blog/
     btn_label: "Go to Blog"
