@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 permalink: /
 hidden: true
 feature_row:
