@@ -1,5 +1,5 @@
 ---
-title: "<br><br>Welcome<br><br>"
+title: "Welcome"
 layout: single
 classes: wide
 permalink: /
@@ -34,4 +34,4 @@ feature_row:
 author_profile: true   
 ---
 
-{% include feature_row type="center"%}
+{% include feature_row %}
