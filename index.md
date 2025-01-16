@@ -24,7 +24,7 @@ feature_row:
     url: "/publications/"
     btn_class: "btn--primary"
     btn_label: "View"
-  - image_path: /assets/images/blog-2.jpg
+  - image_path: /assets/images/publications.webp
     alt: "blog"
     title: "Blog"
     excerpt: "Read my thoughts, ideas, and latest updates."
