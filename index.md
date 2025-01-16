@@ -20,11 +20,11 @@ feature_row:
   - image_path: /assets/images/publications.webp
     alt: "publications"
     title: "Publications"
-    excerpt: "Discover my research and articles"
+    excerpt: "Discover my research and articles."
     url: "/publications/"
     btn_class: "btn--primary"
     btn_label: "View"
-  - image_path: /assets/images/blog-2.jpg
+  - image_path: /assets/images/blog-3.webp
     alt: "blog"
     title: "Blog"
     excerpt: "Read my thoughts, ideas, and updates"
