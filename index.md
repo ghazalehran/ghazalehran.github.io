@@ -5,7 +5,8 @@ classes: wide
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/header_main.jpg
  excerpt: "I am Ghazaleh, a Machine Learning Developer and Biomedical Data scientist. Here, you'll find my portfolio, blog posts, and resources on AI, machine learning, and data science."
 feature_row:
@@ -23,7 +24,7 @@ feature_row:
     url: "/publications/"
     btn_class: "btn--primary"
     btn_label: "View"
-  - image_path: /assets/images/blog-2.jpg
+  - image_path: /assets/images/blog.webp
     alt: "blog"
     title: "Blog"
     excerpt: "Read my thoughts, ideas, and latest updates."
@@ -32,7 +33,6 @@ feature_row:
     btn_label: "View"
 author_profile: true   
 ---
-
 
 
 {% include feature_row %}
