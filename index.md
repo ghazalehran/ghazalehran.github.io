@@ -6,9 +6,9 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/header_main.jpg
-excerpt: "I am Ghazaleh, a Machine Learning Developer and Biomedical Data scientist. Here, you'll find my portfolio, blog posts, and resources on AI, machine learning, and data science. Let's explore the future of technology together!"
+excerpt: "I'm Ghazaleh, a Machine Learning Developer and Biomedical Data Scientist. Explore my portfolio, blog, and resources on AI, machine learning, and data science!"
 feature_row:
   - image_path: /assets/images/digital-portfolio.gif
     alt: "porfolio-icin"
