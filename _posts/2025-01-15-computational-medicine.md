@@ -3,7 +3,7 @@ layout: single
 title: "What is Computational Medicine?"
 date: 2025-01-15
 categories: [blog]
-tags: [jekyll, minimal-mistakes, tutorial]
+tags: [Computational Medicine, AI, Industry]
 author_profile: true
 ---
 ## What is Computational Medicine?
