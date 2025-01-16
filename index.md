@@ -24,10 +24,10 @@ feature_row:
     url: "/publications/"
     btn_class: "btn--primary"
     btn_label: "View"
-  - image_path: /assets/images/publications.webp
+  - image_path: /assets/images/blog-2.jpg
     alt: "blog"
     title: "Blog"
-    excerpt: "Read my thoughts, ideas, and latest updates."
+    excerpt: "Read my thoughts, ideas, and updates"
     url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "View" 
