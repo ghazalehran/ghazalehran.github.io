@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/blog-3.webp
     alt: "blog"
     title: "Blog"
-    excerpt: "Read my thoughts, and latest updates."
+    excerpt: "Read my thoughts, and updates."
     url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "View" 
