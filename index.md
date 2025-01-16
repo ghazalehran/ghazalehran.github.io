@@ -11,7 +11,6 @@ excerpt: "I am Ghazaleh, a Machine Learning Developer and Biomedical Data scient
 feature_row:
   - image_path: /assets/images/digital-portfolio.gif
     alt: "porfolio-icin"
-@@ -23,21 +23,21 @@
     url: "/publications/"
     btn_class: "btn--primary"
     btn_label: "View"
