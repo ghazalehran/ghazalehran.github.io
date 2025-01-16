@@ -33,11 +33,6 @@ feature_row:
 author_profile: true   
 ---
 
-<style>
-  .page-title {
-    color:rgb(75, 67, 62); /* Replace with the desired color */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Optional: adds shadow for better visibility */
-  }
-</style>
+
 
 {% include feature_row %}
