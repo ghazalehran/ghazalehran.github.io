@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "<br><br>Welcome<br><br>"
 layout: single
 classes: wide
 permalink: /
@@ -7,7 +7,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/header_main.jpg
-excerpt: "I am Ghazaleh, a Machine Learning Developer and Biomedical Data scientist. Here, you'll find my portfolio, blog posts, and resources on AI, machine learning, and data science. Let's explore the future of technology together!"
+ excerpt: "<br><br><br><br><br><br>"
 feature_row:
   - image_path: /assets/images/digital-portfolio.gif
     alt: "porfolio-icin"
@@ -23,7 +23,7 @@ feature_row:
     url: "/publications/"
     btn_class: "btn--primary"
     btn_label: "View"
-  - image_path: /assets/images/blog.webp
+  - image_path: /assets/images/blog-2.jpg
     alt: "blog"
     title: "Blog"
     excerpt: "Read my thoughts, ideas, and latest updates."
