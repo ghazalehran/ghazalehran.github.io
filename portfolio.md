@@ -9,12 +9,18 @@ header:
   excerpt: "<br><br><br><br><br><br>"
 # intro: 
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+feature_row1:
+  - image_path: assets/images/simsiam.png
+    alt: "sll"
+    title: "SimSiam: Self-Supervised Feature Learning with PyTorch"
+    excerpt: "Dive into SimSiam, a self-supervised learning algorithm designed to extract meaningful representations from data without the need for labeled samples. This guide walks through the key components, training pipeline, and performance evaluation on CIFAR-10, with visual insights into learned features."
+    url: "https://github.com/ghazalehran/GenerativeModels/tree/main/SSL"
 feature_row2:
   - image_path: assets/images/VAE2.jpg
     alt: "VAE-cat"
     title: "Exploring Variational Autoencoders: A Hands-On Guide"
     excerpt: "Explore the power of Variational Autoencoders (VAEs) in this hands-on guide. Learn how to implement and train a VAE on the SVHN dataset using       PyTorch, with step-by-step instructions for building the model and visualizing results. Perfect for those looking to dive into generative models and image generation!"
-    url: "https://github.com/ghazalehran/VAE-GenerativeModels"
+    url: "https://github.com/ghazalehran/GenerativeModels/tree/main/VAE"
 feature_row3:
   - image_path: assets/images/mvarica.avif
     alt: "Image courtesy of unsplash"
@@ -58,6 +64,8 @@ feature_row5:
 #     btn_label: "Read More"
 #     btn_class: "btn--primary"
 ---
+
+{% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
