@@ -28,7 +28,8 @@ toc_label: "Contents"
       TensorFlow<br>
       PyTorch<br>
       Keras<br>
-      Hugging Face Transformers<br>
+      Hugging Face<br>
+      LangChain<br>
     </p>
   </div>
   
