@@ -312,6 +312,11 @@ compress_html:
     envs: development
 
 
+collections:
+  portfolio:
+    output: true
+
+
 # # Defaults
 # defaults:
 #   # _posts
