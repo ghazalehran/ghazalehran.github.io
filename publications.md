@@ -23,7 +23,6 @@ permalink: /publications/
   <p class="additional-info">
     <strong>Status:</strong> Under review at *Taylor & Francis*<br>
     <strong>Pre-print:</strong> <a href="https://example.com/preprint-link">Link to pre-print</a><br>
-    <strong>Contact:</strong> <a href="mailto:guillaume.dumas@ppsp.team">guillaume.dumas@ppsp.team</a>
   </p>
 </div>
 
@@ -44,7 +43,6 @@ permalink: /publications/
     <strong>DOI:</strong> <a href="https://doi.org/10.1152/jn.00224.2022">10.1152/jn.00224.2022</a><br>
     <strong>PubMed:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/36070245">36070245</a><br>
     <strong>Status:</strong> Published in *Journal of Neurophysiology*<br>
-    <strong>Pre-print:</strong> <a href="https://example.com/preprint-link">Link to pre-print</a>
   </p>
 </div>
 
