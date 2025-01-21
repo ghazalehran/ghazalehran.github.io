@@ -48,8 +48,7 @@ The use of EEG to simultaneously record multiple brains (i.e., hyperscanning) du
 </div>
 
 ---
-
-/* Custom styling for the Publications section */
+<style>
 .section_pub {
     margin-bottom: 40px;
     padding: 20px 10px;
@@ -97,3 +96,4 @@ The use of EEG to simultaneously record multiple brains (i.e., hyperscanning) du
     color: #2A5D84;
 }
 
+<style>
