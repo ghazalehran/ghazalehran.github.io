@@ -40,9 +40,9 @@ permalink: /publications/
   <p><strong>Keywords:</strong> Cross-frequency coupling, EEG, Hyperscanning, Kuramoto model, Synchronization</p>
 
   <p class="additional-info">
+    <strong>Status:</strong> Published in *Journal of Neurophysiology*<br>
     <strong>DOI:</strong> <a href="https://doi.org/10.1152/jn.00224.2022">10.1152/jn.00224.2022</a><br>
     <strong>PubMed:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/36070245">36070245</a><br>
-    <strong>Status:</strong> Published in *Journal of Neurophysiology*<br>
   </p>
 </div>
 
