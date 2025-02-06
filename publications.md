@@ -22,7 +22,7 @@ permalink: /publications/
 
   <p class="additional-info">
     <strong>Status:</strong> Under review at *Taylor & Francis*<br>
-    <strong>Pre-print:</strong> <a href="https://example.com/preprint-link">Link to pre-print</a><br>
+    <strong>Pre-print:</strong> <a href="https://doi.org/10.1101/2025.01.28.635297">Link to pre-print</a><br>
   </p>
 </div>
 
