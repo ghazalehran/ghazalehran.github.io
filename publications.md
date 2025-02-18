@@ -115,6 +115,8 @@ header:
 
 <style>
 
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
 .publications-container {
     display: flex;
     flex-wrap: wrap;
@@ -149,7 +151,7 @@ header:
 
 /* Title styling */
 .section_pub h3 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Lora', serif;;
     font-size: 1.5em;
     color: #2A5D84;
     margin-bottom: 10px;
@@ -157,6 +159,7 @@ header:
 
 /* Abstracts */
 .abstract {
+    font-family: 'Lora', serif;
     font-size: 0.9em;
     line-height: 1.7;
     text-align: justify;
@@ -165,6 +168,7 @@ header:
 
 /* Additional info (Status, DOI, etc.) */
 .additional-info {
+    font-family: 'Lora', serif;
     font-size: 0.9em;
     margin-top: 10px;
     color: #555;
@@ -186,7 +190,6 @@ header:
     color: #2A5D84;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 .abstract {
     font-family: 'Lora', serif;
 }
