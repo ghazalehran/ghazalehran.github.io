@@ -3,7 +3,7 @@ title: "<br><br>Publications<br><br>"
 layout: splash
 permalink: /publications/
 header:
-  overlay_color: "#000"
+  overlay_color: "#f8f8f8"
   overlay_filter: "0.5"
 ---
 
