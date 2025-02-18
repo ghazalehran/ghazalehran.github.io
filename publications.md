@@ -9,7 +9,6 @@ header:
 
 ---
 
-# Publications
 
 <!-- ---
 
@@ -57,6 +56,8 @@ header:
 <div class="publications-container">
   <div class="section_pub">
     <h2 class="publication-title">Towards Multi-Brain Decoding in Autism: A Self-Supervised Learning Approach</h2>
+  
+
     <p><strong>Authors:</strong> Ghazaleh Ranjabaran, Quentin Moreau, Adrien Dubois, Guillaume Dumas</p>
 
     <p class="abstract">
@@ -74,6 +75,8 @@ header:
 
   <div class="section_pub">
     <h2 class="publication-title">A Neurodynamic Model of Inter-Brain Coupling in the Gamma Band</h2>
+    <img src="/assets/images/images_jn.png" alt="Visualization of EEG-based decoding" class="publication-image">
+    
     <p><strong>Authors:</strong> Quentin Moreau, Lena Adel, Caitriona Douglas, Ghazaleh Ranjbaran, Guillaume Dumas</p>
 
     <p class="abstract">
@@ -165,4 +168,18 @@ header:
 .section_pub p strong {
     color: #2A5D84;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+.abstract {
+    font-family: 'Lora', serif;
+}
+
+.publication-image {
+    width: 100%;  /* Makes the image responsive */
+    max-height: 200px;  /* Adjust to preferred height */
+    object-fit: cover;  /* Ensures the image fills space without distortion */
+    border-radius: 8px;  /* Optional: Adds rounded corners */
+    margin-bottom: 10px; /* Space between image and text */
+}
+
 </style>
