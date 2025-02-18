@@ -56,7 +56,7 @@ header:
 <div class="publications-container">
   <div class="section_pub">
     <h2 class="publication-title">Towards Multi-Brain Decoding in Autism: A Self-Supervised Learning Approach</h2>
-    <img src="/assets/images/ssl.png" alt="Visualization of EEG-based decoding" class="publication-image">
+    <img src="/assets/images/ssl.jpg" alt="Visualization of EEG-based decoding" class="publication-image">
   
 
     <p><strong>Authors:</strong> Ghazaleh Ranjabaran, Quentin Moreau, Adrien Dubois, Guillaume Dumas</p>
@@ -76,7 +76,7 @@ header:
 
   <div class="section_pub">
     <h2 class="publication-title">A Neurodynamic Model of Inter-Brain Coupling in the Gamma Band</h2>
-    <img src="/assets/images/jn.png" alt="Visualization of EEG-based decoding" class="publication-image">
+    <img src="/assets/images/jn.jpg" alt="Visualization of EEG-based decoding" class="publication-image">
 
     <p><strong>Authors:</strong> Quentin Moreau, Lena Adel, Caitriona Douglas, Ghazaleh Ranjbaran, Guillaume Dumas</p>
 
