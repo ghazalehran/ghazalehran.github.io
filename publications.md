@@ -63,10 +63,14 @@ header:
 
     <p class="abstract">
       <strong>Abstract:</strong><br>
-    This study introduces a self-supervised learning (SSL) approach to hyperscanning electroencephalography (EEG) data, targeting the identification of autism spectrum condition (ASC) during social interactions. 
+    This study introduces a self-supervised learning (SSL) approach to hyperscanning electroencephalography (EEG) data, targeting the identification of autism spectrum condition (ASC) during social interactions.
+    </p>
     
-    Hyperscanning enables simultaneous recording of neural activity across interacting individuals, offering a novel path for studying brain-to-brain synchrony in ASC. Leveraging a large-scale, single-brain EEG dataset for SSL pretraining, we developed a multi-brain classification model fine-tuned with hyperscanning data from dyadic interactions involving ASC and neurotypical participants. 
-    
+    <p class="abstract">   
+    Hyperscanning enables simultaneous recording of neural activity across interacting individuals, offering a novel path for studying brain-to-brain synchrony in ASC. Leveraging a large-scale, single-brain EEG dataset for SSL pretraining, we developed a multi-brain classification model fine-tuned with hyperscanning data from dyadic interactions involving ASC and neurotypical participants.
+    </p>
+
+    <p class="abstract">   
     The SSL model demonstrated superior performance (78.13% accuracy) compared to supervised baselines and logistic regression using spectral EEG biomarkers. These results underscore the efficacy of SSL in addressing the challenges of limited labeled data, enhancing EEG-based diagnostic tools for ASC, and advancing research in social neuroscience.
     </p>
 
