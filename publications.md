@@ -5,6 +5,7 @@ permalink: /publications/
 header:
   overlay_color: "#f8f8f8"
   overlay_filter: "0.5"
+  excerpt: "Publications"
 ---
 
 # Publications
