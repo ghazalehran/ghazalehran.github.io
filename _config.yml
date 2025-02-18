@@ -120,7 +120,7 @@ author:
   links:
     - label: "LinkedIn" # Change label to LinkedIn
       icon: "fab fa-fw fa-linkedin" # Use the LinkedIn icon
-      url: "linkedin.com/in/ghazaleh-ranjbaran" 
+      url: "https://www.linkedin.com/in/ghazaleh-ranjbaran-6865481ba/" 
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
@@ -311,10 +311,6 @@ compress_html:
   ignore:
     envs: development
 
-
-collections:
-  portfolio:
-    output: true
 
 
 # # Defaults
