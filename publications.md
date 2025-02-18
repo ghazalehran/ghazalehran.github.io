@@ -76,7 +76,7 @@ header:
 
   <div class="section_pub">
     <h2 class="publication-title">A Neurodynamic Model of Inter-Brain Coupling in the Gamma Band</h2>
-    <img src="/assets/images/jn.jpg" alt="Visualization of EEG-based decoding" class="publication-image">
+    <img src="/assets/images/Jn.jpg" alt="Visualization of EEG-based decoding" class="publication-image">
 
     <p><strong>Authors:</strong> Quentin Moreau, Lena Adel, Caitriona Douglas, Ghazaleh Ranjbaran, Guillaume Dumas</p>
 
