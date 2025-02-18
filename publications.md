@@ -86,13 +86,18 @@ header:
 
     <p class="abstract">
       <strong>Abstract:</strong><br>
-    The use of EEG to simultaneously record multiple brains (i.e., hyperscanning) during social interactions has led to the discovery of inter-brain coupling (IBC). IBC is defined as the neural synchronization between people and is considered to be a marker of social interaction. 
-    
+    The use of EEG to simultaneously record multiple brains (i.e., hyperscanning) during social interactions has led to the discovery of inter-brain coupling (IBC). IBC is defined as the neural synchronization between people and is considered to be a marker of social interaction.
+    </p>
+
+    <p class="abstract"> 
     IBC has previously been observed across different frequency bands, including theta [4–7 Hz]. Given the proximity of this frequency range with behavioral rhythms, models have been able to combine IBC in theta with sensorimotor coordination patterns.
+    </p>
 
-
+    <p class="abstract">
     Interestingly, empirical EEG-hyperscanning results also report the emergence of IBC in the gamma range [>30Hz]. Gamma oscillations’ fast and transient nature makes a direct link between gamma-IBC and other (much slower) interpersonal dynamics difficult, leaving gamma-IBC without a plausible model. However, at the intrabrain level, gamma activity is coupled with the dynamics of lower frequencies through cross-frequency coupling (CFC). 
-    
+    </p>
+
+    <p class="abstract">    
     This paper provides a biophysical explanation, through the simulation of neural data, for the emergence of gamma inter-brain coupling using a Kuramoto model of four oscillators divided into two separate (brain) units. By modulating both the degree of inter-brain coupling in the theta band (i.e., between-units coupling) and CFC (i.e., intraunit theta-gamma coupling), we provide a theoretical explanation of the observed gamma-IBC phenomenon in the EEG-hyperscanning literature.
     </p>
 
