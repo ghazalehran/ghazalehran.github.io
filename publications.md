@@ -6,7 +6,7 @@ permalink: /publications/
 
 # Publications
 
----
+<!-- ---
 
 
 <div class="section_pub">
@@ -46,17 +46,81 @@ permalink: /publications/
   </p>
 </div>
 
----
+--- -->
+
+
+<div class="publications-container">
+  <div class="section_pub">
+    <h2 class="publication-title">Towards Multi-Brain Decoding in Autism: A Self-Supervised Learning Approach</h2>
+    <p><strong>Authors:</strong> Ghazaleh Ranjabaran, Quentin Moreau, Adrien Dubois, Guillaume Dumas</p>
+
+    <p class="abstract">
+      <strong>Abstract:</strong><br>
+      This study introduces a self-supervised learning (SSL) approach...
+    </p>
+
+    <p><strong>Keywords:</strong> Autism, Hyperscanning, EEG, Self-Supervised Learning</p>
+
+    <p class="additional-info">
+      <strong>Status:</strong> Under review at *Taylor & Francis*<br>
+      <strong>Pre-print:</strong> <a href="https://doi.org/10.1101/2025.01.28.635297">Link to pre-print</a><br>
+    </p>
+  </div>
+
+  <div class="section_pub">
+    <h2 class="publication-title">A Neurodynamic Model of Inter-Brain Coupling in the Gamma Band</h2>
+    <p><strong>Authors:</strong> Quentin Moreau, Lena Adel, Caitriona Douglas, Ghazaleh Ranjbaran, Guillaume Dumas</p>
+
+    <p class="abstract">
+      <strong>Abstract:</strong><br>
+      The use of EEG to simultaneously record multiple brains...
+    </p>
+
+    <p><strong>Keywords:</strong> Cross-frequency coupling, EEG, Hyperscanning</p>
+
+    <p class="additional-info">
+      <strong>Status:</strong> Published in *Journal of Neurophysiology*<br>
+      <strong>DOI:</strong> <a href="https://doi.org/10.1152/jn.00224.2022">10.1152/jn.00224.2022</a><br>
+      <strong>PubMed:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/36070245">36070245</a><br>
+    </p>
+  </div>
+</div>
+
 
 
 <style>
+
+.publications-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+}
+
 .section_pub {
+    width: calc(50% - 10px); /* Adjust width to fit two columns */
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 20px 15px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Ensuring responsiveness */
+@media (max-width: 768px) {
+    .section_pub {
+        width: 100%; /* Stack items on smaller screens */
+    }
+}
+
+/* .section_pub {
     margin-bottom: 40px;
     padding: 20px 10px;
     background-color: #f8f8f8;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
+} */
 
 /* Title styling */
 .section_pub h3 {
