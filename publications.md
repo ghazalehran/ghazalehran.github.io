@@ -1,7 +1,10 @@
 ---
-title: ""
+title: "<br><br>Publications<br><br>"
 layout: splash
 permalink: /publications/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
 ---
 
 # Publications
