@@ -9,6 +9,12 @@ header:
   excerpt: "<br><br><br><br><br><br>"
 # intro: 
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+feature_row0:
+  - image_path: assets/images/wids.jpg
+    alt: "sll"
+    title: "Uncovering ADHD and Gender Disparities Using Brain Imaging and Machine Learning"
+    excerpt: "For the WiDS Datathon 2025, I'm developing a multi-outcome machine learning model to predict ADHD diagnoses and identify sex-based differences using brain imaging and behavioral data. Optimizing for weighted F1 score, I'm focusing on addressing the underdiagnosis of ADHD in females — gaining insights that could help drive more personalized and equitable mental health care."
+    url: "https://github.com/ghazalehran/WiDS-Datathon-2025"
 feature_row1:
   - image_path: assets/images/simsiam.png
     alt: "sll"
@@ -63,7 +69,8 @@ feature_row5:
 #     url: "#test-link"
 #     btn_label: "Read More"
 #     btn_class: "btn--primary"
----
+
+{% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row1" type="left" %}
 
