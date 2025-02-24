@@ -31,7 +31,7 @@ feature_row3:
   - image_path: assets/images/mvarica.avif
     alt: "Image courtesy of unsplash"
     title: "Connectivity Analysis with MVAR and ICA"
-    excerpt: 'This project applies MVAR (Multivariate Autoregressive) modeling and ICA (Independent Component Analysis) to EEG time-series data to estimate connectivity measures like transfer functions and directed coherence.<a href="https://github.com/your-link-to-tutorial" target="_blank">Check out the PDC Connectivity in the Tutorial section</a>'
+    excerpt: 'This project applies MVAR (Multivariate Autoregressive) modeling and ICA (Independent Component Analysis) to EEG time-series data to estimate connectivity measures like transfer functions and directed coherence.<a href="https://github.com/ppsp-team/HyPyP/blob/master/tutorial/getting_started.ipynb" target="_blank">Check out the PDC Connectivity in the Tutorial section</a>'
     url: "https://github.com/ppsp-team/HyPyP/blob/master/hypyp/mvarica.py"
 feature_row4:
   - image_path: /assets/images/emoji.avif
@@ -70,7 +70,7 @@ feature_row5:
 #     btn_label: "Read More"
 #     btn_class: "btn--primary"
 ---
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row0" type="left" %}
 
 {% include feature_row id="feature_row1" type="left" %}
 
