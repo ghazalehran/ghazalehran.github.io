@@ -38,8 +38,8 @@
 
 .home-hero__grid {
   display: grid;
-  grid-template-columns: minmax(0, 1.5fr) minmax(240px, 0.7fr);
-  gap: 2.5rem;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1.5rem;
   align-items: start;
 }
 
@@ -77,35 +77,18 @@
   line-height: 1.9;
 }
 
+.home-intro-note {
+  max-width: 34rem;
+  color: #667283;
+  font-size: 0.98rem;
+  line-height: 1.8;
+}
+
 .home-actions {
   display: flex;
   flex-wrap: wrap;
   gap: 0.85rem;
   margin-top: 1.4rem;
-}
-
-.home-stats {
-  display: grid;
-  gap: 1.1rem;
-  padding-top: 0.35rem;
-}
-
-.home-stat-card {
-  padding: 0 0 1.1rem;
-  border-bottom: 1px solid #e6e8eb;
-}
-
-.home-stat-card strong {
-  display: block;
-  margin-bottom: 0.3rem;
-  color: #1f3048;
-  font-size: 1.55rem;
-  line-height: 1;
-}
-
-.home-stat-card span {
-  color: #5d6878;
-  font-size: 0.95rem;
 }
 
 .home-grid {
@@ -123,48 +106,41 @@
   font-size: 1.3rem;
 }
 
-.home-focus-grid,
-.home-work-grid {
+.home-focus-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1.25rem;
 }
 
-.home-focus-card,
-.home-work-card {
+.home-focus-card {
   padding-top: 0.15rem;
   border-top: 2px solid #dde3ea;
 }
 
-.home-focus-card h3,
-.home-work-card h3 {
+.home-focus-card h3 {
   margin-top: 0;
   margin-bottom: 0.55rem;
   font-size: 1.02rem;
 }
 
-.home-focus-card p,
-.home-work-card p {
+.home-focus-card p {
   margin-bottom: 0;
   color: #526072;
 }
 
-.home-research-grid {
+.home-split-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1.3fr) minmax(260px, 0.7fr);
-  gap: 1.5rem;
+  grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
+  gap: 2rem;
   align-items: start;
 }
 
-.home-publication-card,
-.home-cta-card {
-  padding: 1.4rem 1.45rem;
+.home-feature-block {
+  padding-left: 1.2rem;
   border-left: 2px solid #dde3ea;
-  background: #fcfcfd;
 }
 
-.home-publication-card h3,
-.home-cta-card h3 {
+.home-feature-block h3 {
   margin-top: 0;
   margin-bottom: 0.6rem;
   font-size: 1.05rem;
@@ -746,8 +722,7 @@
   .about-hero__grid,
   .about-body,
   .home-focus-grid,
-  .home-work-grid,
-  .home-research-grid,
+  .home-split-grid,
   .resume-hero__grid,
   .resume-layout,
   .resume-grid,

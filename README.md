@@ -16,9 +16,7 @@ The site keeps the Minimal Mistakes layouts, includes, Sass, and JavaScript in-r
 - `about.md`: about page and contact form
 - `portfolio.md`: featured project page
 - `publications.md`: publications page
-- `blog.md`: blog landing page
 - `resume.md`: resume page
-- `_posts/`: blog posts
 - `assets/images/`: page and project images
 
 ## Local Development
@@ -58,4 +56,3 @@ Removed:
 - Obsolete Travis CI config
 - Placeholder portfolio collection entries not used by the live pages
 - Staticman sample configuration
-
