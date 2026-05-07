@@ -18,7 +18,6 @@ classes:
         <div class="home-actions">
           <a class="contact-button" href="/resume/">View Resume</a>
           <a class="contact-button contact-button--secondary" href="/portfolio/">Explore Projects</a>
-          <a class="contact-button contact-button--secondary" href="/publications/">Read Publications</a>
         </div>
       </div>
       <div class="home-stats">
@@ -40,7 +39,7 @@ classes:
 
   <section class="home-grid">
     <section class="home-section">
-      <h2>What I Build</h2>
+      <h2>Focus</h2>
       <div class="home-focus-grid">
         <article class="home-focus-card">
           <h3>NeuroAI and Computational Neuroscience</h3>
@@ -59,16 +58,16 @@ classes:
 
     <section class="home-section">
       <h2>Selected Work</h2>
-      <div class="home-work-grid">
-        <article class="home-work-card">
+      <div class="home-plain-list">
+        <article class="home-plain-item">
           <h3>ADHD Modeling with Brain Imaging and Behavioral Data</h3>
           <p>Predictive modeling for ADHD diagnosis with attention to sex-based disparities and more equitable clinical insight.</p>
         </article>
-        <article class="home-work-card">
+        <article class="home-plain-item">
           <h3>Self-Supervised Learning for Neural and Visual Data</h3>
           <p>Representation learning workflows spanning SimSiam, multimodal pretraining, and low-label research settings.</p>
         </article>
-        <article class="home-work-card">
+        <article class="home-plain-item">
           <h3>Explainable and Reproducible ML Pipelines</h3>
           <p>Technical systems that support interpretability, signal processing, and reliable experimentation across complex datasets.</p>
         </article>
@@ -77,7 +76,7 @@ classes:
     </section>
 
     <section class="home-section">
-      <h2>Research and Publications</h2>
+      <h2>Research</h2>
       <div class="home-research-grid">
         <article class="home-publication-card">
           <h3>Towards Multi-Brain Decoding in Autism: A Self-Supervised Learning Approach</h3>
