@@ -70,9 +70,18 @@
   gap: 1.5rem;
 }
 
+.about-body--single {
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1.5rem;
+}
+
 .about-form-panel {
   position: sticky;
   top: 2rem;
+}
+
+.about-form-panel--full {
+  position: static;
 }
 
 .profile-pronunciation {

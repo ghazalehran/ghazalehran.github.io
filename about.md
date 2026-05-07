@@ -26,7 +26,7 @@ classes: wide
     </div>
   </section>
 
-  <section class="about-body">
+  <section class="about-body about-body--single">
     <div class="about-copy">
       <section class="content-panel">
         <h2>What I Focus On</h2>
@@ -51,31 +51,31 @@ classes: wide
         <p>I enjoy projects that need both technical depth and careful translation between domains. That usually means collaborating across research, engineering, and health contexts to build solutions that are interpretable, reproducible, and genuinely helpful to the people using them.</p>
         <p>I'm especially motivated by work that can improve clinical understanding, support more personalized care, or make advanced analysis more accessible to research teams.</p>
       </section>
-    </div>
 
-    <aside class="content-panel about-form-panel" id="contact">
-      <h2>Let's Connect</h2>
-      <p>If you'd like to reach out without publishing your email address, send me a message here. I'm open to collaborations, research conversations, and thoughtful project opportunities.</p>
-      <form class="contact-form" action="https://formspree.io/f/myzzkpzn" method="POST" enctype="multipart/form-data">
-        <div class="contact-form__row">
-          <label for="name">Your Name</label>
-          <input type="text" id="name" name="name" required>
-        </div>
-        <div class="contact-form__row">
-          <label for="email">Your Email</label>
-          <input type="email" id="email" name="_replyto" required>
-        </div>
-        <div class="contact-form__row">
-          <label for="message">Your Message</label>
-          <textarea id="message" name="message" rows="6" required></textarea>
-        </div>
-        <div class="contact-form__row">
-          <label for="file">Attach a File (Optional)</label>
-          <input type="file" id="file" name="file">
-          <p class="contact-form__help">Use this form if you prefer not to expose your email address publicly.</p>
-        </div>
-        <button type="submit" class="contact-button">Send Message</button>
-      </form>
-    </aside>
+      <section class="content-panel about-form-panel about-form-panel--full" id="contact">
+        <h2>Let's Connect</h2>
+        <p>If you'd like to reach out without publishing your email address, send me a message here. I'm open to collaborations, research conversations, and thoughtful project opportunities.</p>
+        <form class="contact-form" action="https://formspree.io/f/myzzkpzn" method="POST" enctype="multipart/form-data">
+          <div class="contact-form__row">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" required>
+          </div>
+          <div class="contact-form__row">
+            <label for="email">Your Email</label>
+            <input type="email" id="email" name="_replyto" required>
+          </div>
+          <div class="contact-form__row">
+            <label for="message">Your Message</label>
+            <textarea id="message" name="message" rows="6" required></textarea>
+          </div>
+          <div class="contact-form__row">
+            <label for="file">Attach a File (Optional)</label>
+            <input type="file" id="file" name="file">
+            <p class="contact-form__help">Use this form if you prefer not to expose your email address publicly.</p>
+          </div>
+          <button type="submit" class="contact-button">Send Message</button>
+        </form>
+      </section>
+    </div>
   </section>
 </section>
