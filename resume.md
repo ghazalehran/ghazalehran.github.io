@@ -1,242 +1,142 @@
 ---
 layout: single
-title: ""
+title: "Resume"
 permalink: /resume/
-author_profile: true
-toc: true
-toc_label: "Contents"
 ---
-## Technical Expertise
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 20px;">
-  <div style="width: 150px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
-    <h4 style="font-size: 14px;">Programming</h4>
-    <p style="font-size: 12px;">
-      Python<br>
-      R<br>
-      SQL<br>
-      C++<br>
-      MATLAB<br>
-    </p>
+<section class="resume-header">
+  <h1>Machine Learning and Biomedical Data Specialist</h1>
+  <p class="resume-lead">I build and evaluate machine learning systems for biomedical data, with a focus on neuroimaging, EEG, statistical analysis, and research workflows that support healthcare and neuroscience applications.</p>
+  <div class="resume-meta">
+    <span class="meta-pill">Montreal, Canada</span>
+    <span class="meta-pill">Machine Learning</span>
+    <span class="meta-pill">Biomedical Data</span>
+    <span class="meta-pill">Computational Neuroscience</span>
   </div>
-  
-  <div style="width: 150px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow">
-    <h4 style="font-size: 14px;">Frameworks</h4>
-    <p style="font-size: 12px;">
-      TensorFlow<br>
-      PyTorch<br>
-      Keras<br>
-      Hugging Face<br>
-      LangChain<br>
-    </p>
+</section>
+
+<section class="resume-section">
+  <h2>Summary</h2>
+  <div class="content-panel">
+    <p>I work across machine learning, biomedical science, and data engineering to turn complex physiological and research data into usable insight. My experience spans model development, statistical analysis, data harmonization, and applied research systems, especially in settings involving neurotechnology and healthcare data.</p>
   </div>
-  
-  <div style="width: 150px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
-    <img src="https://img.icons8.com/?size=48&id=aR9CXyMagKIS&format=png&color=000000" alt="Scikit-learn">
-    <h4 style="font-size: 14px;">Libraries</h4>
-    <p style="font-size: 12px;">
-      JAX<br>
-      OpenCV<br>
-      SciPy<br>
-      Scikit-learn<br>
-      spaCy<br>
-      Tidyverse<br>
-      PostgreSQL<br>
-      Boost<br>
-    </p>
+</section>
+
+<section class="resume-section">
+  <h2>Skills</h2>
+  <div class="content-panel">
+    <div class="skill-group">
+      <h3>Programming</h3>
+      <div class="skill-pills">
+        <span class="skill-pill">Python</span>
+        <span class="skill-pill">R</span>
+        <span class="skill-pill">SQL</span>
+        <span class="skill-pill">C++</span>
+        <span class="skill-pill">MATLAB</span>
+      </div>
+    </div>
+    <div class="skill-group">
+      <h3>Frameworks and Libraries</h3>
+      <div class="skill-pills">
+        <span class="skill-pill">PyTorch</span>
+        <span class="skill-pill">TensorFlow</span>
+        <span class="skill-pill">Keras</span>
+        <span class="skill-pill">Hugging Face</span>
+        <span class="skill-pill">LangChain</span>
+        <span class="skill-pill">Scikit-learn</span>
+        <span class="skill-pill">SciPy</span>
+        <span class="skill-pill">spaCy</span>
+        <span class="skill-pill">OpenCV</span>
+        <span class="skill-pill">JAX</span>
+        <span class="skill-pill">Tidyverse</span>
+      </div>
+    </div>
+    <div class="skill-group">
+      <h3>Platforms and Tooling</h3>
+      <div class="skill-pills">
+        <span class="skill-pill">AWS</span>
+        <span class="skill-pill">Compute Canada Cloud</span>
+        <span class="skill-pill">Docker</span>
+        <span class="skill-pill">Git</span>
+        <span class="skill-pill">GitLab</span>
+        <span class="skill-pill">MLflow</span>
+        <span class="skill-pill">Comet ML</span>
+        <span class="skill-pill">PostgreSQL</span>
+      </div>
+    </div>
   </div>
-  
-  <div style="width: 150px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; text-align: center;">
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
-    <h4 style="font-size: 14px;">Cloud & DevOps</h4>
-    <p style="font-size: 12px;">
-      AWS<br>
-      Compute Canada Cloud<br>
-      Docker<br>
-      Git<br>
-      Gitlab<br>
-      MLflow<br>
-      Comet ML<br>
-    </p>
+</section>
+
+<section class="resume-section">
+  <h2>Experience Profile</h2>
+  <div class="resume-grid">
+    <div class="content-panel">
+      <div class="timeline-item">
+        <h3 class="timeline-role">Applied Machine Learning for Biomedical Research</h3>
+        <p class="timeline-meta">Recent focus</p>
+        <ul>
+          <li>Developed and evaluated machine learning models for biomedical and neuroimaging datasets.</li>
+          <li>Worked on signal-driven workflows involving EEG, neurodiagnostic systems, and research-oriented data pipelines.</li>
+          <li>Supported analysis that connects modeling choices to meaningful scientific or clinical interpretation.</li>
+        </ul>
+      </div>
+      <div class="timeline-item">
+        <h3 class="timeline-role">Data Integration and Statistical Analysis</h3>
+        <p class="timeline-meta">Cross-functional research and analytics work</p>
+        <ul>
+          <li>Integrated heterogeneous datasets to improve consistency, usability, and downstream modeling performance.</li>
+          <li>Applied statistical analysis to large-scale, noisy, or multimodal research data.</li>
+          <li>Helped shape reproducible workflows for experimentation, comparison, and reporting.</li>
+        </ul>
+      </div>
+      <div class="timeline-item">
+        <h3 class="timeline-role">Collaborative Research and Technical Delivery</h3>
+        <p class="timeline-meta">Research and engineering partnership</p>
+        <ul>
+          <li>Worked across technical and scientific disciplines to translate research goals into implementable systems.</li>
+          <li>Balanced algorithmic rigor with practical delivery, documentation, and maintainability.</li>
+          <li>Contributed to projects where clarity, reproducibility, and real-world usefulness mattered as much as model performance.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="content-panel">
+      <div class="skill-group">
+        <h3>Domain Knowledge</h3>
+        <div class="skill-pills">
+          <span class="skill-pill">Machine Learning</span>
+          <span class="skill-pill">Deep Learning</span>
+          <span class="skill-pill">NLP</span>
+          <span class="skill-pill">Computer Vision</span>
+          <span class="skill-pill">EEG</span>
+          <span class="skill-pill">Neuroimaging</span>
+          <span class="skill-pill">Hyperscanning</span>
+          <span class="skill-pill">Healthcare Data</span>
+          <span class="skill-pill">Data Harmonization</span>
+        </div>
+      </div>
+      <div class="skill-group">
+        <h3>Working Style</h3>
+        <div class="skill-pills">
+          <span class="skill-pill">Communication</span>
+          <span class="skill-pill">Teamwork</span>
+          <span class="skill-pill">Problem Solving</span>
+          <span class="skill-pill">Adaptability</span>
+          <span class="skill-pill">Leadership</span>
+          <span class="skill-pill">Time Management</span>
+        </div>
+      </div>
+    </div>
   </div>
-</div>
+</section>
 
-## Domain & Industry Knowledge
-
-<!-- Machine Learning & AI Accordion -->
-<div style="max-width: 800px; margin: 20px auto; text-align: left;">
-  <button class="accordion">
-    <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="Machine Learning Icon" style="height: 30px; margin-right: 10px;">
-    <strong>Machine Learning & AI</strong>
-  </button>
-  <div class="panel">
-    <p>In-depth knowledge of various Machine Learning techniques, including both <strong>Supervised</strong> and <strong>Unsupervised Learning</strong>, allowing for the creation of models that can predict outcomes and discover hidden patterns in data. Expertise in <strong>Deep Learning</strong> with advanced models like <strong>Convolutional Neural Networks (CNNs)</strong>, <strong>Recurrent Neural Networks (RNNs)</strong>, <strong>Generative Adversarial Networks (GANs)</strong>, and <strong>Autoencoders</strong>. Proficient in implementing solutions for complex problems in <strong>Natural Language Processing (NLP)</strong> and <strong>Computer Vision</strong>, enabling the extraction of insights from text and image data.</p>
-  </div>
-</div>
-
-<!-- Healthcare Data & Compliance Accordion -->
-<div style="max-width: 800px; margin: 20px auto; text-align: left;">
-  <button class="accordion">
-    <img src="https://img.icons8.com/ios/50/000000/hospital-room.png" alt="Healthcare Icon" style="height: 30px; margin-right: 10px;">
-    <strong>Healthcare Data & Compliance</strong>
-  </button>
-  <div class="panel">
-    <p>Extensive experience working with healthcare data systems like <strong>Electronic Health Records (EHR)</strong> and <strong>Electronic Medical Records (EMR)</strong>, ensuring proper management and integration of patient data. Expertise in <strong>Hospital Information Systems (HIS)</strong> for seamless healthcare operations. Well-versed in industry regulations, including <strong>HIPAA (Health Insurance Portability and Accountability Act)</strong>, <strong>FDA (U.S. Food and Drug Administration)</strong>, and <strong>HL7 (Health Level Seven Standards)</strong>, ensuring compliance in handling sensitive healthcare information. Knowledgeable in the implementation of systems that improve healthcare delivery, protect patient privacy, and meet government standards.</p>
-  </div>
-</div>
-
-  <style>
-    /* Basic Reset */
-    body, h4, p {
-      margin: 0;
-      padding: 0;
-    }
-
-    /* Accordion button styles */
-    .accordion {
-      background-color: #f1f1f1;
-      color: #444;
-      padding: 15px;
-      width: 100%;
-      text-align: left;
-      border: none;
-      outline: none;
-      cursor: pointer;
-      font-size: 16px;
-      transition: 0.4s;
-      display: flex;
-      align-items: center;
-      border-radius: 5px;
-    }
-
-    .accordion:hover {
-      background-color: #ddd;
-    }
-
-    .accordion:after {
-      content: '\002B';  /* "+" symbol */
-      font-size: 18px;
-      color: #777;
-      margin-left: auto;
-    }
-
-    .accordion.active:after {
-      content: "\2212";  /* "−" symbol */
-    }
-
-    /* Panel (hidden by default) */
-    .panel {
-      padding: 15px;
-      background-color: #f9f9f9;
-      display: none;
-      overflow: hidden;
-      border-radius: 5px;
-      margin-top: 10px;
-    }
-
-    /* Style for active accordion (when expanded) */
-    .accordion.active + .panel {
-      display: block;
-    }
-
-    /* Accordion Container */
-    .accordion-container {
-      max-width: 800px;
-      margin: 20px auto;
-      text-align: left;
-    }
-
-    /* Icon Styles */
-    .accordion img {
-      height: 30px;
-      margin-right: 10px;
-    }
-
-    /* Responsive Design */
-    @media (max-width: 768px) {
-      .accordion {
-        font-size: 14px;
-      }
-
-      .panel p {
-        font-size: 14px;
-      }
-    }
-  </style>
-
-<body>
-
-
-  <!-- JavaScript for Accordion Toggle -->
-  <script>
-    // Accordion toggle behavior
-    document.querySelectorAll('.accordion').forEach((accordion) => {
-      accordion.addEventListener('click', function() {
-        this.classList.toggle('active');
-        const panel = this.nextElementSibling;
-        if (panel.style.display === 'block') {
-          panel.style.display = 'none';
-        } else {
-          panel.style.display = 'block';
-        }
-      });
-    });
-  </script>
-
-</body>
-
-
-## Soft Skills
-
-<div class="skill-cloud">
-  <span class="skill-word">Communication</span>
-  <span class="skill-word">Teamwork</span>
-  <span class="skill-word">Problem-Solving</span>
-  <span class="skill-word">Adaptability</span>
-  <span class="skill-word">Leadership</span>
-  <span class="skill-word">Time Management</span>
-</div>
-
-<style>
-  .skill-cloud {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-    font-size: 14px;
-  }
-
-  .skill-word {
-    font-size: 18px;
-    font-weight: bold;
-    color: #333;
-    padding: 5px;
-    transition: transform 0.3s ease;
-  }
-
-  .skill-word:hover {
-    transform: scale(1.2);
-    color: #4CAF50;
-  }
-
-  .skill-word:nth-child(1) {
-    font-size: 20px;
-  }
-  .skill-word:nth-child(2) {
-    font-size: 22px;
-  }
-  .skill-word:nth-child(3) {
-    font-size: 18px;
-  }
-  .skill-word:nth-child(4) {
-    font-size: 18px;
-  }
-  .skill-word:nth-child(5) {
-    font-size: 22px;
-  }
-  .skill-word:nth-child(6) {
-    font-size: 16px;
-  }
-</style>
+<section class="resume-section">
+  <h2>Interests</h2>
+  <ul class="two-column-list">
+    <li>Self-supervised learning for scientific data</li>
+    <li>AI systems for healthcare and biotech</li>
+    <li>Computational neuroscience</li>
+    <li>Interpretable modeling and evaluation</li>
+    <li>Signal processing and feature extraction</li>
+    <li>Research tooling with practical impact</li>
+  </ul>
+</section>
