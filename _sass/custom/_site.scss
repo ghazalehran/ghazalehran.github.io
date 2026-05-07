@@ -1,3 +1,16 @@
+.layout--single.full-width-page {
+  .page {
+    @media (min-width: 64em) {
+      width: 100%;
+      padding-inline-end: 0;
+    }
+  }
+
+  .page__inner-wrap {
+    max-width: 100%;
+  }
+}
+
 .page__content {
   .profile-intro,
   .content-section,

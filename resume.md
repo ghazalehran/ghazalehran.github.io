@@ -2,6 +2,9 @@
 layout: single
 title: "Resume"
 permalink: /resume/
+classes:
+  - wide
+  - full-width-page
 ---
 
 <section class="resume-header">

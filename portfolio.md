@@ -2,7 +2,9 @@
 title: "Portfolio"
 layout: single
 permalink: /portfolio/
-classes: wide
+classes:
+  - wide
+  - full-width-page
 ---
 
 <section class="profile-intro">

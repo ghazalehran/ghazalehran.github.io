@@ -2,7 +2,9 @@
 layout: single
 title: "About"
 permalink: /about/
-classes: wide
+classes:
+  - wide
+  - full-width-page
 ---
 
 <section class="about-shell">
