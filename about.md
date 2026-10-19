@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: null
 permalink: /about/
 classes:
   - wide
@@ -13,17 +13,21 @@ classes:
       <div>
         <p class="profile-pronunciation">Pronounced GAH-zah-leh</p>
         <h1>Hi, I'm Ghazaleh.</h1>
-        <p class="profile-lead">I work at the intersection of machine learning, biomedical data, and computational neuroscience, building practical systems that turn complex physiological signals into useful clinical and research insight.</p>
+        <p class="profile-lead">I'm a Machine Learning Specialist and software developer with a background in biomedical engineering and computational neuroscience.</p>
+        <p>My work sits at the intersection of machine learning research and software development. I enjoy building systems that bring research ideas into practice&mdash;from neural-network implementations and scientific data pipelines to agentic workflows, evaluation tools, and GPU-accelerated computing.</p>
+        <p>I'm currently a Machine Learning Specialist affiliated with <strong>Mila &ndash; Quebec AI Institute</strong>, working within <strong>IVADO's AI and Neuroscience research cluster (R1)</strong>. My work focuses on developing software and computational infrastructure for multimodal foundation-model research.</p>
         <div class="about-hero__meta">
           <span class="meta-pill">Machine Learning</span>
-          <span class="meta-pill">Biomedical Data</span>
-          <span class="meta-pill">Neuroscience</span>
-          <span class="meta-pill">Research Systems</span>
+          <span class="meta-pill">Software Development</span>
+          <span class="meta-pill">Agentic AI</span>
+          <span class="meta-pill">Scientific Computing</span>
         </div>
       </div>
       <aside class="about-note">
         <h2>What Drives My Work</h2>
-        <p>I care about thoughtful, high-signal work that is both technically rigorous and aesthetically clean. The best systems feel trustworthy, clear, and genuinely useful to the people relying on them.</p>
+        <p>I enjoy solving the engineering challenges that arise when machine learning research meets complex, real-world data.</p>
+        <p>I believe good research software should be understandable, reproducible, and reliable enough for others to build upon.</p>
+        <p>I'm particularly drawn to problems that require both research judgment and thoughtful software design.</p>
       </aside>
     </div>
   </section>
@@ -31,32 +35,49 @@ classes:
   <section class="about-body about-body--single">
     <div class="about-copy">
       <section class="content-panel">
-        <h2>What I Focus On</h2>
-        <p>My work centers on scalable AI systems for healthcare and biotechnology, especially projects involving neuroimaging, EEG, and multimodal biomedical datasets. I care about combining strong modeling with careful data handling, so the resulting tools are both scientifically meaningful and operationally useful.</p>
-        <p>Since 2021, I have worked closely with neurodiagnostic signals and research workflows that span both software and hardware. A lot of my recent effort has gone into algorithm development, model evaluation, and harmonizing datasets so they can support better analysis and more reliable downstream learning.</p>
+        <h2>What I Build</h2>
+        <p>My work spans several interconnected areas:</p>
+        <h3>Machine Learning &amp; Deep Learning</h3>
+        <p>Implementing and evaluating deep-learning architectures, developing representation-learning workflows, and working with multimodal data.</p>
+        <h3>Agentic AI &amp; Evaluation</h3>
+        <p>Developing LLM-integrated workflows for data inspection, structured planning, validation, and reproducible evaluation.</p>
+        <h3>Software Development &amp; ML Infrastructure</h3>
+        <p>Designing reusable Python components, developing tests and interfaces, integrating inference systems, and building computational workflows for GPU/HPC environments.</p>
+        <h3>Scientific &amp; Multimodal Computing</h3>
+        <p>Working with heterogeneous datasets, including EEG, fMRI, video, and behavioral recordings, where data quality, temporal alignment, and provenance are essential.</p>
       </section>
 
       <section class="content-panel">
-        <h2>Areas of Interest</h2>
-        <ul class="two-column-list">
-          <li>Machine learning for healthcare and life sciences</li>
-          <li>Computational neuroscience and neurotechnology</li>
-          <li>Statistical analysis of complex biomedical datasets</li>
-          <li>Signal processing for EEG and neuroimaging workflows</li>
-          <li>Dataset harmonization and integration</li>
-          <li>Research systems that balance rigor with usability</li>
-        </ul>
+        <h2>From Research to Software Systems</h2>
+        <p>My academic background is in biomedical engineering and computational medicine. My earlier research explored neural dynamics, EEG hyperscanning, and self-supervised learning for multi-brain decoding.</p>
+        <p>That experience shaped how I approach machine learning: understanding the data, validating assumptions, and developing methods that remain scientifically meaningful.</p>
+        <p>More recently, my work has expanded toward ML software infrastructure and agentic AI systems.</p>
+        <p>I am a co-first author of <em>NeuroBuilder: Auditable Agentic Data Curation for Neuro-Foundation Models</em>, accepted at SMASH 2026. The work investigates how agentic reasoning can be combined with deterministic validation, provenance tracking, and researcher oversight to make scientific data adaptation more reliable.</p>
+        <p>I am also a first author of <em>Towards Multi-Brain Decoding in Autism: A Self-Supervised Learning Approach</em>, published in <em>Neuroinformatics</em> in 2026.</p>
       </section>
 
       <section class="content-panel">
         <h2>How I Work</h2>
-        <p>I enjoy projects that need both technical depth and careful translation between domains. That usually means collaborating across research, engineering, and health contexts to build solutions that are interpretable, reproducible, and genuinely helpful to the people using them.</p>
-        <p>I'm especially motivated by work that can improve clinical understanding, support more personalized care, or make advanced analysis more accessible to research teams.</p>
+        <p>I value clear software architecture, careful validation, reproducible experiments, and collaborative development.</p>
+        <p>I enjoy working across research and engineering teams, translating complex requirements into practical software, and making technical decisions that can be understood, tested, and maintained.</p>
+      </section>
+
+      <section class="content-panel">
+        <h2>Technical Interests</h2>
+        <p>My broader interests include:</p>
+        <ul class="two-column-list">
+          <li>Reliable AI systems</li>
+          <li>Scientific foundation models</li>
+          <li>Open-source software</li>
+          <li>Model evaluation</li>
+          <li>Scalable ML infrastructure</li>
+        </ul>
       </section>
 
       <section class="content-panel about-form-panel about-form-panel--full" id="contact">
         <h2>Let's Connect</h2>
-        <p>If you'd like to reach out without publishing your email address, send me a message here. I'm open to collaborations, research conversations, and thoughtful project opportunities.</p>
+        <p>I'm interested in collaborations and opportunities involving machine learning, AI research, software development, and scientific computing.</p>
+        <p>You can reach me through the private contact form below.</p>
         <form class="contact-form" action="https://formspree.io/f/myzzkpzn" method="POST" enctype="multipart/form-data">
           <div class="contact-form__row">
             <label for="name">Your Name</label>
