@@ -15,7 +15,7 @@ classes:
         <h1>Hi, I'm Ghazaleh.</h1>
         <p class="profile-lead">I'm a Machine Learning Specialist and software developer with a background in biomedical engineering and computational neuroscience.</p>
         <p>My work sits at the intersection of machine learning research and software development. I enjoy building systems that bring research ideas into practice&mdash;from neural-network implementations and scientific data pipelines to agentic workflows, evaluation tools, and GPU-accelerated computing.</p>
-        <p>I'm currently a Machine Learning Specialist affiliated with <strong>Mila &ndash; Quebec AI Institute</strong>, working within <strong>IVADO's AI and Neuroscience research cluster (R1)</strong>. My work focuses on developing software and computational infrastructure for multimodal foundation-model research.</p>
+        <p>I'm currently affiliated with <strong>Mila &ndash; Quebec AI Institute</strong>, working within <strong>IVADO's AI and Neuroscience research cluster (R1)</strong>, where I contribute to software and computational infrastructure for multimodal foundation-model research.</p>
         <div class="about-hero__meta">
           <span class="meta-pill">Machine Learning</span>
           <span class="meta-pill">Software Development</span>
@@ -65,12 +65,12 @@ classes:
       <section class="content-panel">
         <h2>Technical Interests</h2>
         <p>My broader interests include:</p>
-        <ul class="two-column-list">
-          <li>Reliable AI systems</li>
-          <li>Scientific foundation models</li>
-          <li>Open-source software</li>
-          <li>Model evaluation</li>
-          <li>Scalable ML infrastructure</li>
+        <ul class="about-interest-tags" role="list" aria-label="Technical interests">
+          <li class="meta-pill">Reliable AI systems</li>
+          <li class="meta-pill">Scientific foundation models</li>
+          <li class="meta-pill">Open-source software</li>
+          <li class="meta-pill">Model evaluation</li>
+          <li class="meta-pill">Scalable ML infrastructure</li>
         </ul>
       </section>
 
@@ -94,7 +94,7 @@ classes:
           <div class="contact-form__row">
             <label for="file">Attach a File (Optional)</label>
             <input type="file" id="file" name="file">
-            <p class="contact-form__help">Use this form if you prefer not to expose your email address publicly.</p>
+            <p class="contact-form__help">This form lets you contact me without my email address being displayed publicly.</p>
           </div>
           <button type="submit" class="contact-button">Send Message</button>
         </form>
