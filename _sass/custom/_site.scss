@@ -57,6 +57,7 @@
 
 .home-kicker::before {
   content: "";
+  flex-shrink: 0;
   width: 2.5rem;
   height: 1px;
   background: currentColor;
@@ -64,9 +65,9 @@
 
 .home-title {
   margin: 0 0 0.8rem;
-  max-width: 14ch;
-  font-size: clamp(2.6rem, 4.5vw, 5rem);
-  line-height: 0.98;
+  max-width: 24ch;
+  font-size: clamp(2.2rem, 4.2vw, 4rem);
+  line-height: 1.08;
 }
 
 .home-subtitle {
@@ -78,17 +79,47 @@
 }
 
 .home-intro-note {
-  max-width: 34rem;
+  max-width: 44rem;
   color: #667283;
   font-size: 0.98rem;
   line-height: 1.8;
 }
 
+.home-shell .home-subtitle,
+.home-shell .home-intro-note {
+  margin-bottom: 1rem;
+}
+
 .home-actions {
   display: flex;
+  align-items: center;
   flex-wrap: wrap;
   gap: 0.85rem;
   margin-top: 1.4rem;
+}
+
+.home-actions > .home-link {
+  padding: 0.65rem 0.35rem;
+}
+
+@media (max-width: 480px) {
+  .home-actions {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .home-actions > a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 0;
+    min-height: 44px;
+  }
+}
+
+.home-shell a:focus-visible {
+  outline: 2px solid #40618f;
+  outline-offset: 4px;
 }
 
 .home-grid {
@@ -108,12 +139,12 @@
 
 .home-focus-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1.25rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem 2rem;
 }
 
 .home-focus-card {
-  padding-top: 0.15rem;
+  padding-top: 0.75rem;
   border-top: 2px solid #dde3ea;
 }
 
