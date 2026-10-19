@@ -56,8 +56,8 @@ classes:
           <h2>Selected Work</h2>
           <div class="home-plain-list">
             <article class="home-plain-item">
-              <h3><a href="{{ '/portfolio/' | relative_url }}">Agentic ML Workflows</a></h3>
-              <p>Design and development of Python-based agent workflows supporting scientific data inspection, structured planning, validation, and reproducible evaluation.</p>
+              <h3><a href="{{ '/portfolio/' | relative_url }}">NeuroBuilder &mdash; Agentic AI for Scientific Data</a></h3>
+              <p>Developed an auditable agentic framework for scientific data adaptation, combining LLM-based planning, deterministic validation, provenance tracking, and reproducible evaluation. Co-first-author research accepted at SMASH 2026.</p>
             </article>
             <article class="home-plain-item">
               <h3><a href="{{ '/portfolio/' | relative_url }}">Multimodal Foundation-Model Pipelines</a></h3>
@@ -72,9 +72,20 @@ classes:
         </div>
         <aside class="home-feature-block">
           <h2>Research</h2>
-          <h3>Towards Multi-Brain Decoding in Autism</h3>
-          <p>Self-supervised learning for EEG hyperscanning and multi-brain decoding in autism research.</p>
-          <p><a class="home-link" href="https://doi.org/10.1101/2025.01.28.635297">View preprint</a></p>
+          <div class="home-plain-list">
+            <article class="home-plain-item">
+              <h3>NeuroBuilder: Auditable Agentic Data Curation for Neuro-Foundation Models</h3>
+              <p><strong>SMASH 2026 &mdash; Accepted</strong><br>Co-first author (equal contribution)</p>
+              <p>Research on reliable agentic systems for adapting heterogeneous neuroscience datasets into validated representations for foundation-model workflows.</p>
+            </article>
+            <article class="home-plain-item">
+              <h3>Towards Multi-Brain Decoding in Autism: A Self-Supervised Learning Approach</h3>
+              <p><strong>Neuroinformatics, 2026</strong><br>First author</p>
+              <p>Self-supervised representation learning for EEG hyperscanning and multi-brain decoding.</p>
+              <p><a class="home-link" href="https://doi.org/10.1007/s12021-025-09755-0">View article</a></p>
+            </article>
+          </div>
+          <p><a class="home-link" href="{{ '/publications/' | relative_url }}">View all publications</a></p>
         </aside>
       </div>
     </section>
